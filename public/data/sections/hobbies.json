@@ -27,7 +27,7 @@
                     "percentage": 15,
                     "locales": {
                         "en": {
-                            "title": "Family Time",
+                            "title": "Gaming",
                             "description": "Time spent with cherished loved ones.",
                             "level": null
                         },
@@ -89,7 +89,7 @@
                     "percentage": 11,
                     "locales": {
                         "en": {
-                            "title": "Relaxing",
+                            "title": "Building Copmuters",
                             "description": "Being lazy and proud of it :)",
                             "level": null
                         },
@@ -120,7 +120,7 @@
                     "percentage": 9,
                     "locales": {
                         "en": {
-                            "title": "Studying",
+                            "title": "Embedded Devices",
                             "description": "Embarking on a continuous journey of learning.",
                             "level": null
                         },
@@ -168,37 +168,6 @@
                         "zh": {
                             "title": "锻炼",
                             "description": "致力于身体健康，培养健康的生活方式。",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 6,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-utensils",
-                    "fallbackFaIconColor": "#EEB79A",
-                    "percentage": 19,
-                    "locales": {
-                        "en": {
-                            "title": "Cooking",
-                            "description": "Creating culinary masterpieces.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Cocina",
-                            "description": "Creando obras maestras culinarias.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Cuisine",
-                            "description": "Créer des chefs-d'œuvre culinaires.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "烹饪",
-                            "description": "创造烹饪杰作，在每道菜肴中注入风味。",
                             "level": null
                         }
                     }
@@ -303,7 +272,7 @@
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Music",
+                            "title": "Machine Learning ML/AI",
                             "description": "Playing instruments, composing, and embracing the harmony of diverse musical genres.",
                             "level": null
                         },
@@ -382,37 +351,6 @@
                         "zh": {
                             "title": "前端开发",
                             "description": "使用现代技术打造交互式网页界面，实现无缝的用户体验。",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 6,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-palette",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Visual Arts",
-                            "description": "Exploring visual aesthetics, graphic design, and expressing ideas through artistic creativity.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Artes Visuales",
-                            "description": "Explorar la estética visual, el diseño gráfico y expresar ideas a través de la creatividad artística.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Arts Visuels",
-                            "description": "Exploration de l'esthétique visuelle, du design graphique et expression d'idées par la créativité artistique.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "视觉艺术",
-                            "description": "探索视觉美学，平面设计，通过艺术创意表达思想。",
                             "level": null
                         }
                     }

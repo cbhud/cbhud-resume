@@ -1,0 +1,61 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2023, "month": 8},
+                    "dateEnd": {"year": 2026, "month": 8},
+                    "img": "images/places/logo-harvard.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor's in Software Engineering",
+                            "description": "Graduated with a solid foundation in software development and design while specializing in backend technologies.",
+                            "province": "Podgorica",
+                            "country": "ME",
+                            "institution": "Mediterranean University",
+                            "tags": []
+                        },
+
+                        "es": {
+                            "title": "Licenciatura en Diseño Gráfico con Énfasis en UX",
+                            "description": "Graduado con una sólida formación en diseño gráfico con especialización en diseño de experiencia de usuario. Adquirió experiencia en narración visual, diseño de interfaz de usuario y pensamiento de diseño colaborativo.",
+                            "province": "Massachusetts",
+                            "country": "EE. UU",
+                            "institution": "Universidad de Harvard",
+                            "tags": []
+                        },
+
+                        "fr": {
+                            "title": "Baccalauréat en Design Graphique avec Accent sur l'UX",
+                            "description": "Diplômé avec une base solide en design graphique tout en se spécialisant dans la conception de l'expérience utilisateur. Acquis une expertise en narration visuelle, en design d'interface utilisateur et en réflexion collaborative sur la conception.",
+                            "province": "Massachusetts",
+                            "country": "États-Unis",
+                            "institution": "Université Harvard",
+                            "tags": []
+                        },
+
+                        "zh": {
+                            "title": "平面设计学士学位，强调 UX",
+                            "description": "毕业于平面设计领域，专攻用户体验设计，掌握了视觉叙事、用户界面设计和协作式设计思维方面的专业知识。",
+                            "province": "马萨诸塞州",
+                            "country": "美国",
+                            "institution": "哈佛大学",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "name": "CBHud",
+    "profilePictureUrl": "images/pictures/avatar.jpg",
+
+    "locales": {
+        "en": {
+            "credits": "👨‍💻",
+            "role": "Software Engineer"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Rozaje, Montenegro",
+                    "valueShort": "Montenegro – RO"
+                },
+                "es": {
+                    "valueShort": "California – EE.UU."
+                },
+                "fr": {
+                    "valueShort": "Californie – États-Unis"
+                },
+                "zh": {
+                    "valueShort": "美国加州"
+                }
+            }
+        },
+
+        {
+            "id": "email",
+            "value": "amerhott17@gmail.com",
+            "valueShort": "amerhott17@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:amerhott17@gmail.com"
+        },
+
+        {
+            "id": "facebook",
+            "value": "CBHud's Dev Services",
+            "valueShort": "CBHud Dev",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com/cbhud.dev"
+        },
+
+        {
+            "id": "github",
+            "value": "@cbhud",
+            "valueShort": "@cbhud",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/cbhud"
+        },
+
+        {
+            "id": "instagram",
+            "value": "@cbhud.dev",
+            "valueShort": "@cbhud.dev",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com/cbhud.dev"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "@amerhot",
+            "valueShort": "@amerhot",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/in/amerhot"
+        },
+
+        {
+            "id": "discord",
+            "value": "@cbhud",
+            "valueShort": "@cbhud",
+            "faIcon": "fa-brands fa-discord",
+            "href": "https://discord.gg/vtstcBUUV7"
+        }
+    ]
+}

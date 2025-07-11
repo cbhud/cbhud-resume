@@ -13,17 +13,32 @@
                 "chart": null
             },
             "items": [
-                {
+                                {
                     "id": 1,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-paint-roller",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Design Principles",
-                            "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging.",
+                            "title": "Backend Development",
+                            "description": "Experienced in building robust backend systems using Java, PHP, and frameworks like Quarkus, including API design, database integration, and efficient data management.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Web Application Development",
+                            "description": "Proficient in creating dynamic and responsive web applications using PHP, JavaScript, HTML, CSS, and Vue.js, ensuring smooth performance across devices.",
                             "level": null
                         },
                         "es": {
@@ -54,7 +69,7 @@
                     "locales": {
                         "en": {
                             "title": "Responsive Layouts",
-                            "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience.",
+                            "description": "Capable of building user-friendly interfaces and maintaining consistent user experiences with modern frontend technologies.",
                             "level": null
                         },
                         "es": {
@@ -76,16 +91,16 @@
                 },
 
                 {
-                    "id": 3,
+                    "id": 6,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-vector-square",
+                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Wireframing",
-                            "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design.",
+                            "title": "Academic & Prototype Projects",
+                            "description": "Experienced in translating academic requirements into functional software solutions, with a focus on clean code, documentation, and proof-of-concept builds.",
                             "level": null
                         },
                         "es": {
@@ -110,13 +125,13 @@
                     "id": 4,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-check-double",
+                    "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Usability Testing",
-                            "description": "Enhancing user experiences through comprehensive usability testing.",
+                            "title": "Database Design",
+                            "description": "Adept at designing, optimizing, and integrating relational databases such as MySQL or Postgres for seamless application performance.",
                             "level": null
                         },
                         "es": {
@@ -141,13 +156,13 @@
                     "id": 5,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-expand-arrows-alt",
+                    "fallbackFaIcon": "fa-solid fa-gamepad",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Interaction Design",
-                            "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability.",
+                            "title": "Plugin Development",
+                            "description": "Skilled in developing Minecraft plugins with Java and the Spigot API, delivering engaging gameplay experiences.",
                             "level": null
                         },
                         "es": {
@@ -163,37 +178,6 @@
                         "zh": {
                             "title": "交互设计",
                             "description": "熟练创建直观流畅的交互，以实现用户友好的体验。",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 6,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-laptop-code",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Prototyping",
-                            "description": "Skilled in translating concepts into interactive prototypes for testing and refinement.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Prototipado",
-                            "description": "Habilidad para traducir conceptos en prototipos interactivos para pruebas y perfeccionamiento.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Prototypage",
-                            "description": "Compétent dans la traduction de concepts en prototypes interactifs pour des tests et affinages.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "原型设计",
-                            "description": "熟练将概念转化为交互式原型，以进行测试和完善。",
                             "level": null
                         }
                     }
@@ -325,60 +309,6 @@
                             "description": "能够构建和部署复杂的Vue应用程序。"
                         }
                     }
-                },
-
-                {
-                    "id": 5,
-                    "dateStart": {"year": 2024, "month": 1},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-react",
-                    "fallbackFaIconColor": null,
-                    "percentage": 75,
-                    "locales": {
-                        "en": {
-                            "title": "React",
-                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture."
-                        },
-                        "es": {
-                            "title": "React",
-                            "description": "Experto en construir interfaces interactivas con React, utilizando hooks y arquitectura basada en componentes."
-                        },
-                        "fr": {
-                            "title": "React",
-                            "description": "Expérimenté dans la création d'interfaces interactives avec React, en utilisant des hooks et une architecture basée sur des composants."
-                        },
-                        "zh": {
-                            "title": "React",
-                            "description": "擅长使用React构建交互式用户界面，利用hooks和基于组件的架构。"
-                        }
-                    }
-                },
-
-                {
-                    "id": 6,
-                    "dateStart": {"year": 2022, "month": 11},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-angular",
-                    "fallbackFaIconColor": null,
-                    "percentage": 75,
-                    "locales": {
-                        "en": {
-                            "title": "Angular",
-                            "description": ""
-                        },
-                        "es": {
-                            "title": "Angular",
-                            "description": ""
-                        },
-                        "fr": {
-                            "title": "Angular",
-                            "description": ""
-                        },
-                        "zh": {
-                            "title": "Angular",
-                            "description": ""
-                        }
-                    }
                 }
             ]
         },
@@ -410,8 +340,8 @@
                     "percentage": 85,
                     "locales": {
                         "en": {
-                            "title": "MySQL",
-                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                            "title": "Relational Databases",
+                            "description": "Skilled in managing MySQL, Postgres databases, including schema design and query optimization."
                         },
                         "es": {
                             "title": "MySQL",
@@ -459,12 +389,12 @@
                     "id": 3,
                     "dateStart": {"year": 2022, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIcon": "fa-brands fa-java",
                     "fallbackFaIconColor": null,
                     "percentage": 55,
                     "locales": {
                         "en": {
-                            "title": "Laravel",
+                            "title": "Java",
                             "description": ""
                         },
                         "es": {
@@ -486,12 +416,12 @@
                     "id": 4,
                     "dateStart": {"year": 2023, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIcon": "fa-solid fa-star-of-life",
                     "fallbackFaIconColor": null,
                     "percentage": 40,
                     "locales": {
                         "en": {
-                            "title": "NodeJS",
+                            "title": "Quarkus",
                             "description": ""
                         },
                         "es": {
@@ -532,14 +462,14 @@
                 {
                     "id": 1,
                     "dateStart": null,
-                    "img": "images/flags/en-us.png",
+                    "img": "images/flags/me.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "English",
-                            "description": "Native speaker with excellent communication and writing skills.",
+                            "title": "Montenegrin",
+                            "description": "Native speaker.",
                             "level": "Native"
                         },
                         "es": {
@@ -563,14 +493,14 @@
                 {
                     "id": 2,
                     "dateStart": null,
-                    "img": "images/flags/es.png",
+                    "img": "images/flags/en-uk.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Spanish",
-                            "description": "Fluent in both spoken and written Spanish; confident in professional communication.",
+                            "title": "English",
+                            "description": "Fluent in both spoken and written English; confident in professional communication.",
                             "level": "Fluent"
                         },
                         "es": {
@@ -587,68 +517,6 @@
                             "title": "西班牙语",
                             "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。",
                             "level": "流利"
-                        }
-                    }
-                },
-
-                {
-                    "id": 3,
-                    "dateStart": null,
-                    "img": "images/flags/vi.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Vietnamese",
-                            "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text.",
-                            "level": "Intermediate"
-                        },
-                        "es": {
-                            "title": "Vietnamita",
-                            "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito.",
-                            "level": "Intermedio"
-                        },
-                        "fr": {
-                            "title": "Vietnamien",
-                            "description": "Compétence intermédiaire en vietnamien ; peut tenir des conversations et comprendre un texte écrit.",
-                            "level": "Intermédiaire"
-                        },
-                        "zh": {
-                            "title": "越南语",
-                            "description": "具有中等水平的越南语能力；能进行对话并理解书面文字。",
-                            "level": "中级"
-                        }
-                    }
-                },
-
-                {
-                    "id": 4,
-                    "dateStart": null,
-                    "img": "images/flags/pt-br.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Brazilian Portuguese",
-                            "description": "Basic understanding of Brazilian Portuguese; learning and improving.",
-                            "level": "Beginner"
-                        },
-                        "es": {
-                            "title": "Portugués Brasileño",
-                            "description": "Comprensión básica del portugués brasileño; aprendiendo y mejorando.",
-                            "level": "Principiante"
-                        },
-                        "fr": {
-                            "title": "Portugais Brésilien",
-                            "description": "Compréhension de base du portugais brésilien ; en cours d'apprentissage et d'amélioration.",
-                            "level": "Débutant"
-                        },
-                        "zh": {
-                            "title": "巴西葡萄牙语",
-                            "description": "对巴西葡萄牙语有基本的理解；正在学习和改进。",
-                            "level": "初学者"
                         }
                     }
                 }

@@ -7,9 +7,8 @@
                 "en": {
                     "title": null,
                     "category_all": "All",
-                    "category_productivity": "Productivity",
-                    "category_social": "Social",
-                    "category_utilities": "Utilities"
+                    "category_productivity": "University",
+                    "category_social": "Freelance"
                 },
 
                 "es": {
@@ -140,7 +139,7 @@
                     "img": "images/portfolio/project-logo-2.png",
                     "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
-                    "category": "utilities",
+                    "category": "social",
                     "locales": {
                         "en": {
                             "title": "Snappy",
@@ -203,7 +202,7 @@
                     "img": "images/portfolio/project-logo-5.png",
                     "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
-                    "category": "utilities",
+                    "category": "social",
                     "locales": {
                         "en": {
                             "title": "Sweet Scoops",
@@ -266,7 +265,7 @@
                     "img": "images/portfolio/project-logo-4.png",
                     "fallbackFaIcon": "",
                     "fallbackFaIconColor": null,
-                    "category": "utilities",
+                    "category": "social",
                     "locales": {
                         "en": {
                             "title": "LiveScore Pro",
@@ -321,100 +320,6 @@
                         {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
                         {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
                         {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
-                    ]
-                },
-
-                {
-                    "id": 10,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-crown",
-                    "fallbackFaIconColor": "#c5cc8f",
-                    "category": "productivity",
-                    "locales": {
-                        "en": {
-                            "title": "Chess Academy",
-                            "description": "Master the game of kings with <b>Chess Academy</b>! Whether you're a beginner or a seasoned player, this app offers interactive lessons, AI-powered puzzles, and strategic challenges to sharpen your skills. Learn from grandmasters, practice tactics, and improve your gameplay with personalized feedback. Checkmate your way to the top with <b>Chess Academy</b>!",
-                            "tags": ["chess", "strategy", "learning", "training", "education"]
-                        },
-                        "es": {
-                            "description": "¡Domina el juego de reyes con <b>Chess Academy</b>! Ya seas principiante o jugador experimentado, esta aplicación ofrece lecciones interactivas, acertijos con inteligencia artificial y desafíos estratégicos para mejorar tus habilidades. Aprende de grandes maestros, practica tácticas y perfecciona tu juego con retroalimentación personalizada. ¡Haz jaque mate al éxito con <b>Chess Academy</b>!",
-                            "tags": ["ajedrez", "estrategia", "aprendizaje", "entrenamiento", "educación"]
-                        },
-                        "fr": {
-                            "description": "Maîtrisez le jeu des rois avec <b>Chess Academy</b> ! Que vous soyez débutant ou joueur confirmé, cette application propose des leçons interactives, des énigmes assistées par IA et des défis stratégiques pour affiner vos compétences. Apprenez auprès de grands maîtres, pratiquez des tactiques et améliorez votre jeu grâce à des retours personnalisés. Devenez un maître des échecs avec <b>Chess Academy</b> !",
-                            "tags": ["échecs", "stratégie", "apprentissage", "entraînement", "éducation"]
-                        },
-                        "zh": {
-                            "description": "通过 <b>Chess Academy</b> 掌握王者游戏！无论您是初学者还是经验丰富的棋手，这款应用都提供互动课程、AI 智能棋题和战略挑战，帮助您提升棋艺。从国际大师那里学习，练习战术，并通过个性化反馈优化您的对局表现。用 <b>Chess Academy</b> 迈向国际象棋巅峰！",
-                            "tags": ["国际象棋", "策略", "学习", "训练", "教育"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
-                    ]
-                },
-
-                {
-                    "id": 11,
-                    "img": "images/portfolio/project-logo-1.png",
-                    "fallbackFaIcon": "",
-                    "fallbackFaIconColor": null,
-                    "category": "utilities",
-                    "locales": {
-                        "en": {
-                            "title": "SmartCash",
-                            "description": "<b>SmartCash</b> is your smart companion for personal finance, empowering you to take control of your money effortlessly. With its user-friendly interface, SmartCash provides real-time tracking of your expenses and income, enabling you to identify spending patterns and make informed financial decisions. Stay on top of your budget as SmartCash offers personalized recommendations to save money and achieve your financial goals without compromising your lifestyle.",
-                            "tags": ["app", "finance", "money", "budget"]
-                        },
-                        "es": {
-                            "description": "<b>SmartCash</b> es tu compañero inteligente para las finanzas personales, permitiéndote tomar el control de tu dinero sin esfuerzo. Con su interfaz fácil de usar, SmartCash proporciona un seguimiento en tiempo real de tus gastos e ingresos, lo que te permite identificar patrones de gasto y tomar decisiones financieras informadas. Mantente al tanto de tu presupuesto, ya que SmartCash ofrece recomendaciones personalizadas para ahorrar dinero y alcanzar tus objetivos financieros sin comprometer tu estilo de vida.",
-                            "tags": ["aplicación", "finanzas", "dinero"]
-                        },
-                        "fr": {
-                            "description": "<b>SmartCash</b> est votre compagnon intelligent pour les finances personnelles, vous permettant de prendre le contrôle de votre argent sans effort. Avec son interface conviviale, SmartCash offre un suivi en temps réel de vos dépenses et de vos revenus, vous permettant d'identifier les habitudes de dépenses et de prendre des décisions financières éclairées. Restez maître de votre budget, car SmartCash propose des recommandations personnalisées pour économiser de l'argent et atteindre vos objectifs financiers sans compromettre votre style de vie.",
-                            "tags": ["application", "finance", "argent"]
-                        },
-                        "zh": {
-                            "description": "<b>SmartCash</b> 是您在个人财务方面的智能伴侣，使您轻松掌控您的资金。凭借其用户友好的界面，SmartCash 实时跟踪您的支出和收入，使您能够识别支出模式并做出明智的财务决策。通过提供个性化建议来节省金钱并实现您的财务目标，SmartCash 使您的预算始终保持在掌握之中。",
-                            "tags": ["应用", "财务", "金钱", "预算"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
-                    ]
-                },
-
-                {
-                    "id": 12,
-                    "img": "images/portfolio/project-logo-7.png",
-                    "fallbackFaIcon": "",
-                    "fallbackFaIconColor": null,
-                    "category": "productivity",
-                    "locales": {
-                        "en": {
-                            "title": "MailM8",
-                            "description": "<b>MailM8</b> is your intelligent email companion, revolutionizing the way you manage and interact with your inbox. With advanced AI-powered features, <b>MailM8</b> helps you declutter your email, prioritize important messages, and compose smart replies in a breeze. Say goodbye to email overwhelm and hello to a more efficient and organized communication experience with <b>MailM8</b>.",
-                            "tags": ["app", "email", "communication", "productivity"]
-                        },
-                        "es": {
-                            "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
-                            "tags": ["aplicación", "correo electrónico", "comunicación", "productividad"]
-                        },
-                        "fr": {
-                            "description": "<b>MailM8</b> est votre compagnon de messagerie intelligent, révolutionnant la manière dont vous gérez et interagissez avec votre boîte de réception. Avec des fonctionnalités avancées alimentées par l'IA, <b>MailM8</b> vous aide à désencombrer votre boîte de réception, à prioriser les messages importants et à composer des réponses intelligentes en un clin d'œil. Dites adieu à la surcharge de courrier électronique et bonjour à une expérience de communication plus efficace et organisée avec <b>MailM8</b>.",
-                            "tags": ["application", "courrier électronique", "communication", "productivité"]
-                        },
-                        "zh": {
-                            "description": "<b>MailM8</b> 是您的智能电子邮件伙伴，彻底改变了您管理和与收件箱互动的方式。通过先进的人工智能功能，<b>MailM8</b> 帮助您整理电子邮件，优先处理重要消息，并轻松撰写智能回复。告别电子邮件的压倒性情况，拥抱更高效和有组织的沟通体验，与 <b>MailM8</b> 一同打个招呼。",
-                            "tags": ["应用", "电子邮件", "通讯", "生产力"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
                     ]
                 }
             ]

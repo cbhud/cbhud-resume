@@ -14,10 +14,10 @@
                     "nav_label": "About"
                 },
                 "es": {
-                    "title": "¡Bienvenido a *mi CV!*",
-                    "title_short": "Bienvenido!",
+                    "title": "Dobrodošli u *moj CV!*",
+                    "title_short": "Dobrodošli!",
                     "description": null,
-                    "nav_label": "Acerca de"
+                    "nav_label": "O meni"
                 }
             }
         },
@@ -36,10 +36,10 @@
                     "nav_label": "Education"
                 },
                 "es": {
-                    "title": "Antecedentes *Educativos*",
+                    "title": "*Obrazovno* Pozadina",
                     "title_short": null,
-                    "description": "Un vistazo a mi trayectoria académica y logros.",
-                    "nav_label": "Educación"
+                    "description": "Pogled na moje akademsko obrazovanje i postignuća.",
+                    "nav_label": "Obrazovanje"
                 }
             }
         },
@@ -58,10 +58,10 @@
                     "nav_label": "Skills"
                 },
                 "es": {
-                    "title": "Conjunto de *Habilidades*",
+                    "title": "Skup *Vještina*",
                     "title_short": null,
-                    "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:",
-                    "nav_label": "Habilidades"
+                    "description": "Istraživanje različitih vještina koje sam stekao i razvijao:",
+                    "nav_label": "Vještine"
                 }
             }
         },
@@ -80,10 +80,10 @@
                     "nav_label": "Experience"
                 },
                 "es": {
-                    "title": "Experiencia *Profesional*",
+                    "title": "*Profesionalno* Iskustvo",
                     "title_short": null,
-                    "description": "Un vistazo a mi experiencia laboral y trayectoria profesional.",
-                    "nav_label": "Experiencia"
+                    "description": "Pogled na moje radno iskustvo i profesionalni put.",
+                    "nav_label": "Iskustvo"
                 }
             }
         },
@@ -102,10 +102,10 @@
                     "nav_label": "Portfolio"
                 },
                 "es": {
-                    "title": "Mi *Portafolio*",
+                    "title": "Moj *Portfolio*",
                     "title_short": null,
-                    "description": "Explora una selección de mis proyectos recientes y trabajos creativos.",
-                    "nav_label": "Portafolio"
+                    "description": "Istražite izbor mojih najnovijih projekata i kreativnih radova.",
+                    "nav_label": "Portfolio"
                 }
             }
         },
@@ -124,10 +124,10 @@
                     "nav_label": "Achievements"
                 },
                 "es": {
-                    "title": "Logros *Profesionales*",
+                    "title": "*Profesionalna* Dostignuća",
                     "title_short": null,
-                    "description": "Mi trayectoria como diseñador de UX ha estado marcada por una dedicación inquebrantable al aprendizaje y mejora de habilidades, junto con una participación entusiasta en eventos de diseño. Como resultado, he recopilado una lista de premios y certificaciones notables:",
-                    "nav_label": "Logros"
+                    "description": "Moj put kao UX dizajnera obilježen je posvećenošću učenju i usavršavanju vještina, uz entuzijastično učešće na dizajnerskim događajima. Kao rezultat toga, prikupio sam niz značajnih nagrada i sertifikata:",
+                    "nav_label": "Dostignuća"
                 }
             }
         },
@@ -146,10 +146,10 @@
                     "nav_label": "Hobbies"
                 },
                 "es": {
-                    "title": "*Pasatiempos* e Intereses",
+                    "title": "*Hobiji* i Interesovanja",
                     "title_short": null,
-                    "description": "Así es más o menos cómo paso mi tiempo libre:",
-                    "nav_label": "Aficiones"
+                    "description": "Ovako uglavnom provodim svoje slobodno vrijeme:",
+                    "nav_label": "Hobiji"
                 }
             }
         },
@@ -168,10 +168,10 @@
                     "nav_label": "Contact"
                 },
                 "es": {
-                    "title": "Ponte en *Contacto*",
+                    "title": "Stupi u *Kontakt*",
                     "title_short": null,
-                    "description": "¡Por favor, no dudes en ponerte en contacto conmigo siempre que lo necesites!",
-                    "nav_label": "Contacto"
+                    "description": "Slobodno me kontaktiraj kad god osjetiš potrebu!",
+                    "nav_label": "Kontakt"
                 }
             }
         }

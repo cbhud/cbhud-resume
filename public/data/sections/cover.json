@@ -17,35 +17,30 @@
                         "en": {
                             "description": "I'm a dedicated junior developer with a strong foundation in Java and a passion for solving real-world problems through code. Currently pursuing a degree in Software Engineering, I'm always eager to collaborate, learn, and contribute to meaningful projects."
                         },
-
                         "es": {
-                            "description": "Soy diseñador UX desde hace <strong>8 años</strong>, creando interfaces amigables que se sienten naturales, intuitivas y fluidas en diferentes dispositivos. Me apasiona diseñar experiencias digitales que no solo se vean bien, sino que también funcionen sin esfuerzo, haciendo que las interacciones sean más suaves y agradables."
+                            "description": "Ja sam posvećen junior programer sa jakom osnovom u Javi i strašću za rješavanjem stvarnih problema kroz kod. Trenutno studiram Softversko inženjerstvo i uvijek sam spreman za saradnju, učenje i doprinos značajnim projektima."
                         }
                     }
                 },
-
                 {
                     "id": 2,
                     "locales": {
                         "en": {
                             "description": "I believe great software should be empowering—making technology accessible, intuitive, and enjoyable for everyone. Whether it's building scalable backends, dynamic web applications, or immersive game experiences, I strive to transform ideas into seamless digital solutions that leave a lasting impact."
                         },
-
                         "es": {
-                            "description": "Creo que un buen diseño debe mejorar la vida de las personas, ayudándolas a navegar por la tecnología con facilidad y confianza. ¡Trabajemos juntos para dar vida a las ideas y construir algo verdaderamente asombroso!"
+                            "description": "Vjerujem da odličan softver treba da osnažuje – čineći tehnologiju pristupačnom, intuitivnom i prijatnom za sve. Bilo da se radi o izgradnji skalabilnih backend sistema, dinamičkih web aplikacija ili uranjajućih gejming iskustava, težim da ideje pretvorim u besprekorna digitalna rješenja koja ostavljaju trajan utisak."
                         }
                     }
                 },
-
-                                {
+                {
                     "id": 3,
                     "locales": {
                         "en": {
                             "description": "With hands-on experience across a wide range of projects, I focus on crafting software that’s both technically robust and user-friendly. If you're looking to turn your vision into reality, let's connect and build something exceptional together."
                         },
-
                         "es": {
-                            "description": "Creo que un buen diseño debe mejorar la vida de las personas, ayudándolas a navegar por la tecnología con facilidad y confianza. ¡Trabajemos juntos para dar vida a las ideas y construir algo verdaderamente asombroso!"
+                            "description": "Sa praktičnim iskustvom na različitim projektima, fokusiram se na razvoj softvera koji je tehnički pouzdan i jednostavan za korišćenje. Ako želiš da pretvoriš svoju viziju u stvarnost, hajde da se povežemo i zajedno napravimo nešto izvanredno."
                         }
                     }
                 }

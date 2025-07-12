@@ -4,8 +4,8 @@
             "id": 1,
             "component": "ArticleThread",
             "locales": {
-                "en": {"title": "Awards"},
-                "es": {"title": "Premios"}
+                "en": { "title": "Awards" },
+                "es": { "title": "Nagrade" }
             },
             "settings": {
                 "order_items_by": "id",
@@ -14,7 +14,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2023, "month": 10},
+                    "dateStart": { "year": 2023, "month": 10 },
                     "fallbackFaIcon": "fa-solid fa-building",
                     "fallbackFaIconColor": null,
                     "locales": {
@@ -23,14 +23,18 @@
                             "description": "I participated in the competition of IT solutions for the needs of the accounting company UNIJA. During the competition, I worked in a team to develop a mobile application in the Java programming language.",
                             "institution": "Unija Accounting"
                         },
-
                         "es": {
-                            "title": "Mejor Proyecto de Graduación",
-                            "description": "Trabajo destacado en proyecto de graduación; reconocido por innovación e impacto.",
-                            "institution": "Harvard University"
+                            "title": "Unija IT Solution - Regionalno studentsko takmičenje",
+                            "description": "Učestvovao sam na takmičenju u izradi IT rješenja za potrebe računovodstvene firme UNIJA. Tokom takmičenja radio sam u timu na razvoju mobilne aplikacije u programskom jeziku Java.",
+                            "institution": "Unija Računovodstvo"
                         }
                     },
-                    "links": [{"href": "https://media.licdn.com/dms/image/v2/D4D2DAQEWW_g8kvKhog/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1711845594934?e=1752879600&v=beta&t=dFtswZhRGCZRkl01Rli5lo2wm6aLq9g1ExykSl9t5Rw", "stringKey": "view_more_info"}]
+                    "links": [
+                        {
+                            "href": "https://media.licdn.com/dms/image/v2/D4D2DAQEWW_g8kvKhog/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1711845594934?e=1752879600&v=beta&t=dFtswZhRGCZRkl01Rli5lo2wm6aLq9g1ExykSl9t5Rw",
+                            "stringKey": "view_more_info"
+                        }
+                    ]
                 }
             ]
         },
@@ -39,8 +43,8 @@
             "id": 2,
             "component": "ArticleThread",
             "locales": {
-                "en": {"title": "Certifications"},
-                "es": {"title": "Certificaciones"}
+                "en": { "title": "Certifications" },
+                "es": { "title": "Sertifikati" }
             },
             "settings": {
                 "order_items_by": "id",
@@ -49,7 +53,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2024, "month": 2},
+                    "dateStart": { "year": 2024, "month": 2 },
                     "fallbackFaIcon": "fa-solid fa-computer",
                     "fallbackFaIconColor": null,
                     "locales": {
@@ -58,20 +62,19 @@
                             "description": "Earned CompTIA A+ certification, demonstrating knowledge in hardware, software, networking, troubleshooting, and IT support best practices.",
                             "institution": "CompTIA"
                         },
-
                         "es": {
-                            "title": "Certificación de Diseño UX de Google",
-                            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario.",
-                            "institution": "Google"
+                            "title": "CompTIA A+",
+                            "description": "Stekao CompTIA A+ sertifikat, koji potvrđuje znanje iz hardvera, softvera, mreža, otklanjanja problema i najboljih praksi za IT podršku.",
+                            "institution": "CompTIA"
                         }
                     },
                     "links": [
-                        {"href": "https://comptia.org", "stringKey": "view_certification"}
+                        { "href": "https://comptia.org", "stringKey": "view_certification" }
                     ]
                 },
-                                {
+                {
                     "id": 2,
-                    "dateStart": {"year": 2024, "month": 2},
+                    "dateStart": { "year": 2024, "month": 2 },
                     "fallbackFaIcon": "fa-solid fa-network-wired",
                     "fallbackFaIconColor": null,
                     "locales": {
@@ -80,20 +83,19 @@
                             "description": "Achieved CompTIA Network+ certification, validating skills in networking concepts, infrastructure, operations, security, and troubleshooting.",
                             "institution": "CompTIA"
                         },
-
                         "es": {
-                            "title": "Certificación de Diseño UX de Google",
-                            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario.",
-                            "institution": "Google"
+                            "title": "CompTIA Network+",
+                            "description": "Stekao CompTIA Network+ sertifikat, koji potvrđuje znanje iz mrežnih koncepata, infrastrukture, operacija, bezbjednosti i rješavanja problema.",
+                            "institution": "CompTIA"
                         }
                     },
                     "links": [
-                        {"href": "https://comptia.org", "stringKey": "view_certification"}
+                        { "href": "https://comptia.org", "stringKey": "view_certification" }
                     ]
                 },
-                                                {
+                {
                     "id": 3,
-                    "dateStart": {"year": 2022, "month": 1},
+                    "dateStart": { "year": 2022, "month": 1 },
                     "fallbackFaIcon": "fa-solid fa-briefcase-medical",
                     "fallbackFaIconColor": null,
                     "locales": {
@@ -102,15 +104,14 @@
                             "description": "Conducted first aid classes for diverse participants, including volunteers, students, and employees from various companies. Prepared and consistently delivered the curriculum on schedule.",
                             "institution": "Red Cross of Montenegro"
                         },
-
                         "es": {
-                            "title": "Certificación de Diseño UX de Google",
-                            "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario.",
-                            "institution": "Google"
+                            "title": "Instruktor prve pomoći - Crveni krst",
+                            "description": "Održavao časove prve pomoći za različite učesnike, uključujući volontere, studente i zaposlene iz raznih kompanija. Pripremao i redovno sprovodio nastavni program po rasporedu.",
+                            "institution": "Crveni krst Crne Gore"
                         }
                     },
                     "links": [
-                        {"href": "", "stringKey": "view_certification"}
+                        { "href": "", "stringKey": "view_certification" }
                     ]
                 }
             ]

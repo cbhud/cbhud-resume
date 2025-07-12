@@ -6,6 +6,10 @@
         "en": {
             "credits": "👨‍💻",
             "role": "Software Engineer"
+        },
+        "es": {
+            "credits": "👨‍💻",
+            "role": "Software Engineer"
         }
     },
 
@@ -20,13 +24,7 @@
                     "valueShort": "Montenegro – RO"
                 },
                 "es": {
-                    "valueShort": "California – EE.UU."
-                },
-                "fr": {
-                    "valueShort": "Californie – États-Unis"
-                },
-                "zh": {
-                    "valueShort": "美国加州"
+                    "valueShort": "Montenegro – RO"
                 }
             }
         },

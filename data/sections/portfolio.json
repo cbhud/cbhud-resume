@@ -17,22 +17,6 @@
                     "category_productivity": "Productividad",
                     "category_social": "Social",
                     "category_utilities": "Utilidades"
-                },
-
-                "fr": {
-                    "title": null,
-                    "category_all": "Tous",
-                    "category_productivity": "Productivité",
-                    "category_social": "Social",
-                    "category_utilities": "Utilitaires"
-                },
-
-                "zh": {
-                    "title": null,
-                    "category_all": "全部",
-                    "category_productivity": "生产力",
-                    "category_social": "社交",
-                    "category_utilities": "工具"
                 }
             },
             "settings": {
@@ -41,287 +25,190 @@
             },
             "items": [
                 {
-                    "id": 1,
-                    "img": "images/portfolio/project-logo-3.png",
-                    "fallbackFaIcon": "",
-                    "fallbackFaIconColor": null,
-                    "category": "productivity",
-                    "locales": {
-                        "en": {
-                            "title": "BrainPulse",
-                            "description": "<b>BrainPulse</b> is your ultimate productivity app, helping you manage tasks, organize your schedule, and boost your focus. With its sleek and modern interface, BrainPulse offers features like task lists, reminders, goal tracking, and customizable productivity metrics. Whether you're a student, professional, or anyone looking to optimize their time and efficiency, BrainPulse is your go-to app for achieving more while maintaining work-life balance.",
-                            "tags": ["app", "productivity", "tasks", "focus"]
-                        },
-                        "es": {
-                            "description": "<b>BrainPulse</b> es tu aplicación definitiva de productividad, que te ayuda a gestionar tareas, organizar tu horario y aumentar tu concentración. Con su interfaz elegante y moderna, BrainPulse ofrece funciones como listas de tareas, recordatorios, seguimiento de objetivos y métricas de productividad personalizables. Ya seas un estudiante, un profesional o cualquier persona que busque optimizar su tiempo y eficiencia, BrainPulse es tu aplicación indispensable para lograr más sin sacrificar el equilibrio entre el trabajo y la vida personal.",
-                            "tags": ["aplicación", "productividad", "tareas", "concentración"]
-                        },
-                        "fr": {
-                            "description": "<b>BrainPulse</b> est votre application ultime de productivité, vous aidant à gérer les tâches, organiser votre emploi du temps et améliorer votre concentration. Avec son interface élégante et moderne, BrainPulse propose des fonctionnalités telles que des listes de tâches, des rappels, un suivi des objectifs et des mesures de productivité personnalisables. Que vous soyez étudiant, professionnel ou toute personne cherchant à optimiser son temps et son efficacité, BrainPulse est votre application incontournable pour en faire plus tout en maintenant un équilibre entre travail et vie personnelle.",
-                            "tags": ["application", "productivité", "tâches", "concentration"]
-                        },
-                        "zh": {
-                            "description": "<b>BrainPulse</b> 是您的终极生产力应用，可帮助您管理任务，组织日程并增强专注力。凭借其时尚现代的界面，BrainPulse 提供任务列表、提醒、目标跟踪和可定制的生产力指标等功能。无论您是学生、专业人士还是任何希望优化时间和效率的人，BrainPulse 都是您不可或缺的应用程序，助您在保持工作与生活平衡的同时实现更多成就。",
-                            "tags": ["应用", "生产力", "任务", "专注力"]
-                        }
+                "id": 1,
+                "img": null,
+                "fallbackFaIcon": "fa-solid fa-user-tag",
+                "fallbackFaIconColor": null,
+                "category": "productivity",
+                "locales": {
+                    "en": {
+                    "title": "Suit Store",
+                    "description": "<b>Suit Store</b> was my very first university project — a simple HTML & CSS webpage built with basic technologies. Despite its simplicity, I aimed to maintain a unique and modern aesthetic with an elegant, stylish design. This project marked the beginning of my journey into web development.",
+                    "tags": ["university", "html", "css", "design", "elegant"]
                     },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
+                    "es": {
+                    "description": "<b>Suit Store</b> fue mi primer proyecto universitario: una página web sencilla construida con HTML y CSS básicos. A pesar de su simplicidad, me esforcé por mantener una estética única, moderna y elegante. Este proyecto marcó el inicio de mi camino en el desarrollo web.",
+                    "tags": ["universidad", "html", "css", "diseño", "elegante"]
+                    }
+                },
+                "links": [
+                        {"faIcon": "fa-solid fa-file-lines", "href": "https://cbhud.github.io/suit-store/", "stringKey": "view_site"}
                     ]
                 },
-
                 {
-                    "id": 2,
-                    "img": "images/portfolio/project-logo-6.png",
-                    "fallbackFaIcon": "",
-                    "fallbackFaIconColor": null,
-                    "category": "productivity",
-                    "locales": {
-                        "en": {
-                            "title": "Stackers",
-                            "description": "<b>Stackers</b> is your all-in-one organization and note-taking app, designed to streamline your digital life. With its seamless integration of task management, note organization, and cloud storage, Stackers helps you stay organized and productive. Create to-do lists, jot down ideas, and sync your notes across devices effortlessly. Whether you're a student, professional, or anyone seeking a clutter-free digital workspace, Stackers is here to elevate your organizational game.",
-                            "tags": ["app", "organization", "notes", "productivity"]
-                        },
-                        "es": {
-                            "description": "<b>Stackers</b> es tu aplicación todo en uno para la organización y la toma de notas, diseñada para optimizar tu vida digital. Con su integración perfecta de gestión de tareas, organización de notas y almacenamiento en la nube, Stackers te ayuda a mantener la organización y la productividad. Crea listas de tareas, apunta ideas y sincroniza tus notas en todos tus dispositivos sin esfuerzo. Ya seas estudiante, profesional o cualquier persona que busque un espacio de trabajo digital sin desorden, Stackers está aquí para elevar tu juego organizativo.",
-                            "tags": ["aplicación", "organización", "notas", "productividad"]
-                        },
-                        "fr": {
-                            "description": "<b>Stackers</b> est votre application tout-en-un pour l'organisation et la prise de notes, conçue pour simplifier votre vie numérique. Grâce à son intégration transparente de la gestion des tâches, de l'organisation des notes et du stockage cloud, Stackers vous aide à rester organisé et productif. Créez des listes de tâches, notez vos idées et synchronisez vos notes sur tous vos appareils en toute simplicité. Que vous soyez étudiant, professionnel ou toute personne recherchant un espace de travail numérique sans encombrement, Stackers est là pour élever votre niveau d'organisation.",
-                            "tags": ["application", "organisation", "notes", "productivité"]
-                        },
-                        "zh": {
-                            "description": "<b>Stackers</b> 是您的一体化组织和记事应用，旨在优化您的数字生活。通过无缝集成的任务管理、记事组织和云存储功能，Stackers 帮助您保持组织和高效。创建待办事项列表，记录想法，并轻松在各设备间同步您的笔记。无论您是学生、专业人士还是寻求无杂乱数字工作空间的任何人，Stackers 都在此，提升您的组织能力。",
-                            "tags": ["应用", "组织", "笔记", "生产力"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
-                    ]
-                },
+  "id": 2,
+  "img": null,
+  "fallbackFaIcon": "fa-solid fa-users-gear",
+  "fallbackFaIconColor": "#4a7ba1",
+  "category": "social",
+  "locales": {
+    "en": {
+      "title": "Unija-Challenge",
+      "description": "<b>Unija-Challenge</b> is a mobile application developed for the <a href='https://challenge.unija.com/cg/' target='_blank'>Unija Challenge</a> event — a competition focused on creating IT solutions for the accounting company UNIJA.<br><br>The app allows users to take a picture of an accounting document and automatically convert it into a PDF using AI-enhanced image sharpening and OCR (Optical Character Recognition).<br><br>I participated as part of a development team using Java and Android Studio to build the app during the competition.",
+      "tags": ["ocr", "android", "ai", "pdf", "image processing", "java", "accounting"]
+    },
+    "es": {
+      "description": "<b>Unija-Challenge</b> je mobilna aplikacija razvijena tokom <a href='https://challenge.unija.com/cg/' target='_blank'>Unija Challenge</a> takmičenja — fokusiranog na izradu IT rešenja za potrebe računovodstvene kompanije UNIJA.<br><br>Aplikacija omogućava korisnicima da fotografišu računovodstveni dokument i automatski ga pretvore u PDF pomoću AI poboljšanja slike i OCR (optičko prepoznavanje teksta).<br><br>Učestvovao sam kao deo razvojnog tima koristeći Java programski jezik i Android Studio.",
+      "tags": ["ocr", "android", "ai", "pdf", "obrada slike", "java", "računovodstvo"]
+    }
+  },
+  "links": [
+    {
+      "faIcon": "fa-solid fa-link",
+      "href": "https://challenge.unija.com/cg/",
+      "stringKey": "project_website"
+    },
+        {
+      "faIcon": "fa-solid fa-image",
+      "href": "https://ibb.co/qF0LrVK",
+      "stringKey": "project_certificate"
+    }
+  ]
+},
+{
+  "id": 3,
+  "img": null,
+  "fallbackFaIcon": "fa-solid fa-train-subway",
+  "fallbackFaIconColor": "#3e8e41",
+  "category": "productivity",
+  "locales": {
+    "en": {
+      "title": "UBP - Railway Management System",
+      "description": "<b>UBP - Railway Management System</b> is a university final project developed for the Introduction to Databases course at the University \"Mediteran\" in Podgorica.<br><br>The system models a real-world railway business, supporting scheduling, ticketing, employee and medical exam tracking, and pricing.<br><br>It includes a fully normalized MySQL database, ER and relational diagrams designed in MySQL Workbench, and a Java console application using JDBC for full CRUD operations. I designed the database, implemented the schema, and developed the application logic as part of the final evaluation.<br><br>The app also supports statistics like ticket sales and monthly revenue reports.",
+      "tags": ["university", "database", "mysql", "jdbc", "java", "crud", "railway"]
+    },
+    "es": {
+      "description": "<b>UBP - Railway Management System</b> es un proyecto final universitario desarrollado para el curso de Introducción a Bases de Datos en la Universidad \"Mediteran\" en Podgorica.<br><br>El sistema simula una empresa ferroviaria real, con funcionalidades de horarios, ventas de boletos, gestión de empleados, exámenes médicos y precios.<br><br>Incluye una base de datos MySQL normalizada, diagramas ER y relacionales diseñados en MySQL Workbench, y una aplicación de consola en Java con JDBC para operaciones CRUD. Diseñé la base de datos, implementé el esquema y desarrollé la lógica de la aplicación como parte de la evaluación final.<br><br>La app también proporciona estadísticas como ventas de boletos y seguimiento de ingresos mensuales.",
+      "tags": ["universidad", "base de datos", "mysql", "jdbc", "java", "crud", "ferrocarril"]
+    }
+  },
+  "links": [
+        {
+      "faIcon": "fa-solid fa-link",
+      "href": "https://github.com/cbhud/UBP",
+      "stringKey": "project_website"
+    }
+  ]
+},
+{
+  "id": 4,
+  "img": null,
+  "fallbackFaIcon": "fa-solid fa-film",
+  "fallbackFaIconColor": "#9c27b0",
+  "category": "productivity",
+  "locales": {
+    "en": {
+      "title": "Letterboxd (Graph-Based Movie Network)",
+      "description": "<b>Letterboxd</b> is a graph-based social network for movie recommendations, developed as a final project for the Data Structures & Algorithms course at University \"Mediteran\".<br><br>Each user is represented as a graph node, and friendships are weighted edges based on shared liked movies. The application allows friend recommendations, friendship analysis, and manipulation of user data, all built using custom data structures like `HashSet`, `LinkedList`, and `ArrayList`.<br><br>The system was implemented in Java using an object-oriented approach, demonstrating efficient graph traversal and real-world application of core algorithms.",
+      "tags": ["university", "java", "graphs", "algorithms", "data structures", "social network", "movies"]
+    },
+    "es": {
+      "description": "<b>Letterboxd</b> es una red social basada en grafos para recomendaciones de películas, desarrollada como proyecto final del curso de Estructuras de Datos y Algoritmos en la Universidad \"Mediteran\".<br><br>Cada usuario se representa como un nodo en el grafo, y las amistades son aristas ponderadas según las películas en común. La aplicación permite sugerencias de amistad, análisis de relaciones y manipulación de datos del usuario, todo construido con estructuras de datos como `HashSet`, `LinkedList` y `ArrayList`.<br><br>El sistema fue implementado en Java utilizando un enfoque orientado a objetos, mostrando un uso eficiente de grafos y algoritmos prácticos.",
+      "tags": ["universidad", "java", "grafos", "algoritmos", "estructuras de datos", "red social", "películas"]
+    }
+  },
+  "links": [        {
+      "faIcon": "fa-solid fa-link",
+      "href": "https://github.com/cbhud/letterboxd",
+      "stringKey": "project_website"
+    }]
+},
+{
+  "id": 5,
+  "img": null,
+  "fallbackFaIcon": "fa-solid fa-chess-rook",
+  "fallbackFaIconColor": "#c0392b",
+  "category": "social",
+  "locales": {
+    "en": {
+      "title": "CastleSiege",
+      "description": "<b>CastleSiege</b> is a Minecraft plugin inspired by the classic Mineplex game mode of the same name. Built using Java and Spigot API, the project brings fast-paced PvP siege gameplay back to modern Minecraft servers.<br><br>The plugin features custom classes, wave-based spawning, team balancing, castle defense mechanics, and configurable settings. It was designed to be lightweight and easy to integrate, and it's open-source and actively maintained on GitHub.",
+      "tags": ["minecraft", "spigot", "java", "game", "plugin", "castle", "pvp"]
+    },
+    "es": {
+      "description": "<b>CastleSiege</b> es un plugin de Minecraft inspirado en el clásico modo de juego de Mineplex. Desarrollado en Java con la API de Spigot, revive la jugabilidad de asedio PvP en servidores modernos.<br><br>El plugin incluye clases personalizadas, oleadas de enemigos, balanceo de equipos, mecánicas de defensa de castillo y opciones totalmente configurables. Es ligero, fácil de integrar y de código abierto.",
+      "tags": ["minecraft", "spigot", "java", "juego", "plugin", "castillo", "pvp"]
+    }
+  },
+  "links": [
+    {
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com/cbhud/CastleSiege",
+      "stringKey": "view_on_github"
+    }
+  ]
+},
+{
+  "id": 6,
+  "img": null,
+  "fallbackFaIcon": "fa-solid fa-leaf",
+  "fallbackFaIconColor": "#2ecc71",
+  "category": "social",
+  "locales": {
+    "en": {
+      "title": "Organic Health Store",
+      "description": "<b>Organic Health Store</b> is a full-stack university final project — a complete PHP-based e-commerce platform for organic products. The system includes a secure user authentication system, admin dashboard, dynamic product management, and a full shopping cart and checkout flow.<br><br>Built with security and performance in mind, it supports AJAX-powered cart interactions, real-time product filtering, secure session handling, and downloadable CSV reporting for admins. The relational database includes well-structured tables for users, orders, products, and categories.<br><br>The project demonstrates best practices in PHP development and showcases a scalable and secure store suitable for real-world deployment.",
+      "tags": ["university", "php", "e-commerce", "mysql", "ajax", "admin panel", "security"]
+    },
+    "es": {
+      "description": "<b>Organic Health Store</b> es un proyecto final universitario de pila completa — una plataforma de comercio electrónico desarrollada con PHP para productos orgánicos. El sistema incluye autenticación de usuarios segura, panel de administración, gestión dinámica de productos y un carrito de compras completo con flujo de pago.<br><br>Con enfoque en seguridad y rendimiento, admite interacciones con el carrito vía AJAX, filtrado en tiempo real, manejo seguro de sesiones y generación de informes CSV para los administradores. La base de datos relacional incluye tablas estructuradas para usuarios, pedidos, productos y categorías.<br><br>El proyecto demuestra buenas prácticas en desarrollo PHP y ofrece una tienda segura y escalable para implementación real.",
+      "tags": ["universidad", "php", "comercio electrónico", "mysql", "ajax", "panel admin", "seguridad"]
+    }
+  },
+  "links": [
+    {
+      "faIcon": "fa-solid fa-link",
+      "href": "http://organichealth.zya.me/index.php",
+      "stringKey": "live_demo"
+    }
+  ]
+},
+{
+  "id": 7,
+  "img": null,
+  "fallbackFaIcon": "fa-solid fa-clapperboard",
+  "fallbackFaIconColor": "#34495e",
+  "category": "productivity",
+  "locales": {
+    "en": {
+      "title": "FilmTrack (Track watched movies)",
+      "description": "<b>filmTrack</b> is a backend-focused university project built using the Quarkus framework. The app allows users to track watched movies, authenticate, write reviews, and store personal film data. It integrates with the <a href='https://www.omdbapi.com/' target='_blank'>OMDb API</a> for fetching movie metadata, and exposes RESTful APIs for all core functionality.<br><br>The backend includes a relational database for managing users, movies, and reviews. As part of expanding the project, I began developing the frontend using Vue.js — my first experience with frontend development.<br><br>This project demonstrates full-stack development with modern Java and JavaScript technologies, while learning API integration, security, and UI design fundamentals.",
+      "tags": ["university", "quarkus", "java", "vue", "rest api", "movies", "backend", "frontend"]
+    },
+    "es": {
+      "description": "<b>filmTrack</b> es un proyecto universitario centrado en el backend y desarrollado con el framework Quarkus. La aplicación permite a los usuarios seguir películas vistas, autenticarse, escribir reseñas y guardar datos de películas. Se integra con la <a href='https://www.omdbapi.com/' target='_blank'>OMDb API</a> para obtener información de películas y ofrece APIs REST para toda la funcionalidad.<br><br>El backend utiliza una base de datos relacional para gestionar usuarios, películas y reseñas. Como parte de la expansión del proyecto, comencé a desarrollar el frontend con Vue.js — mi primer contacto con desarrollo de interfaces.<br><br>Este proyecto demuestra habilidades full-stack con tecnologías modernas de Java y JavaScript, integración de APIs y fundamentos de seguridad y diseño UI.",
+      "tags": ["universidad", "quarkus", "java", "vue", "api rest", "películas", "backend", "frontend"]
+    }
+  },
+  "links": [
+    {
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com/cbhud/filmTrack",
+      "stringKey": "view_backend_on_github"
+    },
+        {
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com/cbhud/filmTrack-frontend",
+      "stringKey": "view_backend_on_github"
+    }
+  ]
+}
 
-                {
-                    "id": 3,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-crow",
-                    "fallbackFaIconColor": "#7c4d91",
-                    "category": "productivity",
-                    "locales": {
-                        "en": {
-                            "title": "Bird Tracker",
-                            "description": "Discover and document the world of birds with <b>Bird Tracker</b>! Whether you're a seasoned birdwatcher or just starting out, this app helps you identify species, log sightings, and track migration patterns. Use AI-powered recognition, interactive maps, and detailed bird profiles to enhance your birdwatching experience. Get closer to nature with <b>Bird Tracker</b>!",
-                            "tags": ["birdwatching", "nature", "wildlife", "tracking", "outdoors"]
-                        },
-                        "es": {
-                            "description": "¡Descubre y documenta el mundo de las aves con <b>Bird Tracker</b>! Ya seas un observador experimentado o un principiante, esta aplicación te ayuda a identificar especies, registrar avistamientos y seguir patrones de migración. Utiliza el reconocimiento por IA, mapas interactivos y perfiles detallados para mejorar tu experiencia en la observación de aves. ¡Acércate a la naturaleza con <b>Bird Tracker</b>!",
-                            "tags": ["observación de aves", "naturaleza", "vida silvestre", "seguimiento", "aire libre"]
-                        },
-                        "fr": {
-                            "description": "Découvrez et documentez le monde des oiseaux avec <b>Bird Tracker</b> ! Que vous soyez un ornithologue chevronné ou un débutant, cette application vous aide à identifier les espèces, enregistrer vos observations et suivre les migrations. Profitez de la reconnaissance IA, des cartes interactives et des fiches détaillées pour enrichir votre expérience. Rapprochez-vous de la nature avec <b>Bird Tracker</b> !",
-                            "tags": ["ornithologie", "nature", "faune", "suivi", "plein air"]
-                        },
-                        "zh": {
-                            "description": "使用 <b>Bird Tracker</b> 探索和记录鸟类世界！无论您是经验丰富的观鸟者还是初学者，这款应用都能帮助您识别物种、记录观测，并追踪迁徙模式。借助 AI 识别、互动地图和详细的鸟类档案，提升您的观鸟体验。与 <b>Bird Tracker</b> 一起亲近大自然！",
-                            "tags": ["观鸟", "自然", "野生动物", "追踪", "户外"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
-                    ]
-                },
 
-                {
-                    "id": 4,
-                    "img": "images/portfolio/project-logo-2.png",
-                    "fallbackFaIcon": "",
-                    "fallbackFaIconColor": null,
-                    "category": "social",
-                    "locales": {
-                        "en": {
-                            "title": "Snappy",
-                            "description": "<b>Snappy</b> is your ultimate photography app, empowering you to capture and edit stunning images effortlessly. With its intuitive interface, Snappy provides a wide range of powerful tools and filters to enhance your photos and bring out your creativity. Whether you're a professional photographer or just a hobbyist, Snappy offers features like manual controls, advanced editing options, and AI-powered enhancements to take your photography to the next level.",
-                            "tags": ["app", "photography", "camera"]
-                        },
-                        "es": {
-                            "description": "<b>Snappy</b> es tu aplicación definitiva de fotografía, que te permite capturar y editar imágenes impresionantes sin esfuerzo. Con su interfaz intuitiva, Snappy ofrece una amplia gama de herramientas y filtros poderosos para mejorar tus fotos y potenciar tu creatividad. Ya seas un fotógrafo profesional o simplemente un aficionado, Snappy ofrece funciones como controles manuales, opciones de edición avanzadas y mejoras impulsadas por inteligencia artificial para llevar tu fotografía al siguiente nivel.",
-                            "tags": ["aplicación", "fotografía", "cámara"]
-                        },
-                        "fr": {
-                            "description": "<b>Snappy</b> est votre application ultime de photographie, vous permettant de capturer et d'éditer des images époustouflantes sans effort. Avec son interface intuitive, Snappy propose une large gamme d'outils puissants et de filtres pour améliorer vos photos et stimuler votre créativité. Que vous soyez un photographe professionnel ou simplement un amateur, Snappy offre des fonctionnalités telles que les commandes manuelles, les options d'édition avancées et les améliorations alimentées par l'IA pour pousser votre photographie à un niveau supérieur.",
-                            "tags": ["application", "photographie"]
-                        },
-                        "zh": {
-                            "description": "<b>Snappy</b> 是您的终极摄影应用，可轻松捕捉和编辑令人惊叹的图像。借助其直观的界面，Snappy 提供了各种强大的工具和滤镜，可增强您的照片并释放您的创造力。无论您是专业摄影师还是业余爱好者，Snappy 都提供诸如手动控制、高级编辑选项和基于人工智能的增强功能，将您的摄影推向新的高度。",
-                            "tags": ["应用", "摄影", "相机"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
-                    ]
-                },
 
-                {
-                    "id": 5,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-hippo",
-                    "fallbackFaIconColor": "#1c875b",
-                    "category": "productivity",
-                    "locales": {
-                        "en": {
-                            "title": "Hippo",
-                            "description": "Meet <b>Hippo</b>, the playful learning companion for kids! Designed to make education fun and interactive, <b>Hippo</b> offers engaging activities, colorful games, and brain-boosting challenges to help children develop essential skills. Whether it’s math, reading, or problem-solving, this app keeps young minds curious and excited to learn. Join the adventure and watch your little one grow with <b>Hippo</b>!",
-                            "tags": ["kids", "learning", "education", "fun", "interactive"]
-                        },
-                        "es": {
-                            "description": "¡Conoce a <b>Hippo</b>, el compañero de aprendizaje perfecto para los niños! Diseñado para hacer que la educación sea divertida e interactiva, <b>Hippo</b> ofrece actividades emocionantes, juegos coloridos y desafíos que estimulan la mente. Desde matemáticas hasta lectura y resolución de problemas, esta app mantiene a los niños curiosos y motivados para aprender. ¡Únete a la aventura y ve cómo tu pequeño crece con <b>Hippo</b>!",
-                            "tags": ["niños", "aprendizaje", "educación", "diversión", "interactivo"]
-                        },
-                        "fr": {
-                            "description": "Découvrez <b>Hippo</b>, le compagnon d’apprentissage idéal pour les enfants ! Pensé pour rendre l’éducation amusante et interactive, <b>Hippo</b> propose des activités engageantes, des jeux colorés et des défis stimulants pour aider les enfants à développer des compétences essentielles. Qu’il s’agisse de mathématiques, de lecture ou de logique, cette application garde les jeunes esprits curieux et motivés. Rejoignez l’aventure et regardez votre enfant grandir avec <b>Hippo</b> !",
-                            "tags": ["enfants", "apprentissage", "éducation", "amusement", "interactif"]
-                        },
-                        "zh": {
-                            "description": "认识 <b>Hippo</b>，孩子们的快乐学习伙伴！<b>Hippo</b> 旨在让学习变得有趣又互动，提供丰富多彩的游戏、趣味挑战和益智活动，帮助孩子们培养数学、阅读和逻辑思维等核心技能。这款应用让孩子们在快乐中学习，保持对知识的好奇心。加入 <b>Hippo</b> 的世界，见证孩子的成长！",
-                            "tags": ["儿童", "学习", "教育", "趣味", "互动"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
-                    ]
-                },
 
-                {
-                    "id": 6,
-                    "img": "images/portfolio/project-logo-5.png",
-                    "fallbackFaIcon": "",
-                    "fallbackFaIconColor": null,
-                    "category": "social",
-                    "locales": {
-                        "en": {
-                            "title": "Sweet Scoops",
-                            "description": "Indulge in the world of delectable desserts with <b>Sweet Scoops</b>! This app is a dessert lover's paradise, offering a wide range of mouthwatering recipes, step-by-step instructions, and videos for creating your favorite sweets. From creamy ice creams to irresistible pastries, <b>Sweet Scoops</b> has you covered for all your dessert cravings. Unleash your inner pastry chef and treat yourself to a delightful dessert experience.",
-                            "tags": ["app", "food", "desserts", "recipes"]
-                        },
-                        "es": {
-                            "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
-                            "tags": ["aplicación", "comida", "postres", "recetas"]
-                        },
-                        "fr": {
-                            "description": "Indulgez-vous dans le monde des desserts délectables avec <b>Sweet Scoops</b> ! Cette application est le paradis des amateurs de desserts, offrant une large gamme de recettes alléchantes, d'instructions étape par étape et de vidéos pour créer vos douceurs préférées. Des glaces crémeuses aux pâtisseries irrésistibles, <b>Sweet Scoops</b> vous couvre pour toutes vos envies de dessert. Libérez le chef pâtissier qui sommeille en vous et offrez-vous une délicieuse expérience de dessert.",
-                            "tags": ["application", "nourriture", "desserts", "recettes"]
-                        },
-                        "zh": {
-                            "description": "在<b>Sweet Scoops</b> 的美味甜品世界中尽情享受吧！这款应用是甜品爱好者的天堂，提供各种美味食谱、逐步说明和视频，帮助您制作您最喜爱的甜点。从奶油冰淇淋到诱人的糕点，<b>Sweet Scoops</b> 应有尽有，满足您对甜点的所有渴望。释放您内心的糕点大厨，让自己享受美味的甜点体验。",
-                            "tags": ["应用", "食物", "甜点", "食谱"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
-                    ]
-                },
 
-                {
-                    "id": 7,
-                    "img": "images/portfolio/project-logo-9.png",
-                    "fallbackFaIcon": "",
-                    "fallbackFaIconColor": null,
-                    "category": "social",
-                    "locales": {
-                        "en": {
-                            "title": "RockVerse",
-                            "description": "Step into the electrifying world of rock music with <b>RockVerse</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
-                            "tags": ["app", "music", "rock", "entertainment"]
-                        },
-                        "es": {
-                            "description": "¡Adéntrate en el electrizante mundo de la música rock con <b>RockVerse</b>! Esta aplicación es un refugio para los entusiastas del rock, ofreciendo una amplia colección de canciones de rock clásicas y modernas, listas de reproducción seleccionadas y contenido detrás de escena. Ya seas un fanático acérrimo o estés descubriendo el género, <b>RockVerse</b> te acerca al corazón y alma del rock and roll. ¡Sube el volumen y deja que el espíritu del rock 'n' roll se desate!",
-                            "tags": ["aplicación", "música", "rock", "entretenimiento."]
-                        },
-                        "fr": {
-                            "description": "Plongez dans le monde électrisant de la musique rock avec <b>RockVerse</b> ! Cette application est un paradis pour les amateurs de rock, offrant une vaste collection de pistes rock classiques et modernes, des listes de lecture sélectionnées et du contenu en coulisses. Que vous soyez un fan inconditionnel ou que vous découvriez simplement le genre, <b>RockVerse</b> vous rapproche du cœur et de l'âme du rock 'n' roll. Montez le volume et laissez l'esprit du rock 'n' roll s'exprimer !",
-                            "tags": ["application", "musique", "rock", "divertissement"]
-                        },
-                        "zh": {
-                            "description": "踏入摇滚音乐的电动世界，感受 <b>RockVerse</b>！这款应用是摇滚音乐爱好者的天堂，提供大量经典和现代摇滚音轨，策划的播放列表以及幕后内容。无论您是铁杆粉丝还是刚刚发现这个音乐流派，<b>RockVerse</b> 都会让您更贴近摇滚乐的核心与灵魂。放大音量，释放摇滚精神！",
-                            "tags": ["应用", "音乐", "摇滚", "娱乐"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
-                    ]
-                },
 
-                {
-                    "id": 8,
-                    "img": "images/portfolio/project-logo-4.png",
-                    "fallbackFaIcon": "",
-                    "fallbackFaIconColor": null,
-                    "category": "social",
-                    "locales": {
-                        "en": {
-                            "title": "LiveScore Pro",
-                            "description": "Stay ahead of the game with <b>LiveScore Pro</b>! Get real-time football scores, goal updates, and match results from leagues worldwide. Never miss a moment of the action!",
-                            "tags": ["football", "scores", "sports", "results", "updates"]
-                        },
-                        "es": {
-                            "description": "¡Sigue el fútbol en vivo con <b>LiveScore Pro</b>! Recibe actualizaciones de goles, resultados y marcadores en tiempo real de las mejores ligas del mundo. ¡No te pierdas ni un solo gol!",
-                            "tags": ["fútbol", "marcadores", "deportes", "resultados", "goles"]
-                        },
-                        "fr": {
-                            "description": "Suivez le football en direct avec <b>LiveScore Pro</b> ! Recevez les scores en temps réel, les mises à jour des buts et les résultats des plus grandes compétitions. Ne manquez aucun moment fort !",
-                            "tags": ["football", "scores", "sport", "résultats", "buts"]
-                        },
-                        "zh": {
-                            "description": "使用 <b>LiveScore Pro</b> 即时获取足球比赛比分！实时更新进球信息、比赛结果，覆盖全球各大联赛。不错过任何精彩瞬间！",
-                            "tags": ["足球", "实时比分", "体育", "比赛结果", "进球"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"}
-                    ]
-                },
-
-                {
-                    "id": 9,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-paper-plane",
-                    "fallbackFaIconColor": "#4a7ba1",
-                    "category": "social",
-                    "locales": {
-                        "en": {
-                            "title": "Paper Plane",
-                            "description": "Stay connected effortlessly with <b>Paper Plane</b>, the fast and secure messaging app designed for seamless communication. Send messages, share photos, and make voice or video calls with ease. With end-to-end encryption and a sleek, user-friendly interface, <b>Paper Plane</b> ensures your conversations are private and instant. Whether you're chatting with friends, family, or colleagues, experience messaging like never before!",
-                            "tags": ["messaging", "chat", "communication", "secure", "social"]
-                        },
-                        "es": {
-                            "description": "Mantente conectado fácilmente con <b>Paper Plane</b>, la aplicación de mensajería rápida y segura diseñada para una comunicación sin interrupciones. Envía mensajes, comparte fotos y realiza llamadas de voz o video con total facilidad. Con cifrado de extremo a extremo y una interfaz moderna e intuitiva, <b>Paper Plane</b> garantiza que tus conversaciones sean privadas e instantáneas. ¡Descubre una nueva forma de comunicarte con amigos, familia y colegas!",
-                            "tags": ["mensajería", "chat", "comunicación", "seguridad", "social"]
-                        },
-                        "fr": {
-                            "description": "Restez connecté en toute simplicité avec <b>Paper Plane</b>, l'application de messagerie rapide et sécurisée conçue pour une communication fluide. Envoyez des messages, partagez des photos et passez des appels vocaux ou vidéo en toute simplicité. Grâce au chiffrement de bout en bout et à une interface élégante et intuitive, <b>Paper Plane</b> assure la confidentialité et l’instantanéité de vos conversations. Que ce soit avec vos amis, votre famille ou vos collègues, découvrez une nouvelle façon de communiquer !",
-                            "tags": ["messagerie", "chat", "communication", "sécurisé", "social"]
-                        },
-                        "zh": {
-                            "description": "使用 <b>Paper Plane</b>，让沟通变得轻松快捷！这款安全可靠的即时通讯应用，让您可以随时发送消息、分享照片，并轻松进行语音或视频通话。<b>Paper Plane</b> 采用端到端加密，配备简洁直观的界面，确保您的对话私密且即时。不论是与朋友、家人还是同事交流，<b>Paper Plane</b> 都能带来全新的聊天体验！",
-                            "tags": ["消息", "聊天", "通讯", "安全", "社交"]
-                        }
-                    },
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://www.apple.com/br/app-store/", "stringKey": "view_on_app_store"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store", "stringKey": "view_on_google_play"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://apps.microsoft.com/home", "stringKey": "view_on_windows_store"}
-                    ]
-                }
             ]
         }
     ]

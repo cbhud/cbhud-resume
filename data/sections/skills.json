@@ -45,16 +45,6 @@
                             "title": "Principios de Diseño",
                             "description": "Experto en diseño: fusiono teoría del color, tipografía, layout y equilibrio para cautivar y transmitir mensajes.",
                             "level": null
-                        },
-                        "fr": {
-                            "title": "Principes de Conception",
-                            "description": "Habile en design: utilise principes couleur, typo, composition et équilibre pour captiver et transmettre efficacement.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "设计原则",
-                            "description": "运用色彩理论、排版、版面构图和平衡等基本原则，巧妙打造视觉吸引的设计，以吸引观众并有效传达信息。",
-                            "level": null
                         }
                     }
                 },
@@ -75,16 +65,6 @@
                         "es": {
                             "title": "Diseños Responsivos",
                             "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Mises en Page Réactives",
-                            "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "响应式布局",
-                            "description": "擅长为不同设备创建适应性布局，通过无缝调整设计元素和内容以适配不同屏幕尺寸，确保最佳用户体验。",
                             "level": null
                         }
                     }
@@ -107,16 +87,6 @@
                             "title": "Creación de Wireframes",
                             "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario.",
                             "level": null
-                        },
-                        "fr": {
-                            "title": "Création de Wireframes",
-                            "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "线框图设计",
-                            "description": "熟练制作详细的线框图，以便可视化和规划用户界面。",
-                            "level": null
                         }
                     }
                 },
@@ -137,16 +107,6 @@
                         "es": {
                             "title": "Pruebas de Usabilidad",
                             "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Tests d'Utilisabilité",
-                            "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "可用性测试",
-                            "description": "通过全面的可用性测试提升用户体验。",
                             "level": null
                         }
                     }
@@ -169,16 +129,6 @@
                             "title": "Diseño de Interacción",
                             "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario.",
                             "level": null
-                        },
-                        "fr": {
-                            "title": "Design d'Interaction",
-                            "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "交互设计",
-                            "description": "熟练创建直观流畅的交互，以实现用户友好的体验。",
-                            "level": null
                         }
                     }
                 }
@@ -190,9 +140,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Frontend Stack"},
-                "es": {"title": "Stack de Frontend"},
-                "fr": {"title": "Stack Frontend"},
-                "zh": {"title": "前端技术栈"}
+                "es": {"title": "Stack de Frontend"}
             },
             "settings": {
                 "order_items_by": "percentage",
@@ -205,11 +153,11 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2019, "month": 4},
+                    "dateStart": {"year": 2019, "month": 5},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-html5",
                     "fallbackFaIconColor": null,
-                    "percentage": 95,
+                    "percentage": 100,
                     "locales": {
                         "en": {
                             "title": "HTML 5",
@@ -218,21 +166,13 @@
                         "es": {
                             "title": "HTML 5",
                             "description": "Experto en elementos y características de HTML5."
-                        },
-                        "fr": {
-                            "title": "HTML 5",
-                            "description": "Expérimenté avec les éléments et fonctionnalités HTML5."
-                        },
-                        "zh": {
-                            "title": "HTML 5",
-                            "description": "精通HTML5元素和功能。"
                         }
                     }
                 },
 
                 {
                     "id": 2,
-                    "dateStart": {"year": 2021, "month": 4},
+                    "dateStart": {"year": 2019, "month": 5},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-css3-alt",
                     "fallbackFaIconColor": null,
@@ -245,25 +185,17 @@
                         "es": {
                             "title": "CSS 3",
                             "description": "Experto en técnicas avanzadas de CSS3 como flexbox y animaciones."
-                        },
-                        "fr": {
-                            "title": "CSS 3",
-                            "description": "Compétent dans les techniques avancées CSS3 comme flexbox et animations."
-                        },
-                        "zh": {
-                            "title": "CSS 3",
-                            "description": "擅长使用CSS3高级技术，如flexbox和动画。"
                         }
                     }
                 },
 
                 {
                     "id": 3,
-                    "dateStart": {"year": 2017, "month": 8},
+                    "dateStart": {"year": 2023, "month": 5},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-js-square",
                     "fallbackFaIconColor": null,
-                    "percentage": 85,
+                    "percentage": 75,
                     "locales": {
                         "en": {
                             "title": "Javascript",
@@ -272,41 +204,25 @@
                         "es": {
                             "title": "Javascript",
                             "description": "Experto en JavaScript para aplicaciones web dinámicas e interactivas."
-                        },
-                        "fr": {
-                            "title": "Javascript",
-                            "description": "Compétent en JavaScript pour des applications web dynamiques et interactives."
-                        },
-                        "zh": {
-                            "title": "Javascript",
-                            "description": "擅长JavaScript用于动态和交互式的网页应用。"
                         }
                     }
                 },
 
                 {
                     "id": 4,
-                    "dateStart": {"year": 2017, "month": 3},
+                    "dateStart": {"year": 2025, "month": 6},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-vuejs",
                     "fallbackFaIconColor": null,
-                    "percentage": 100,
+                    "percentage": 10,
                     "locales": {
                         "en": {
                             "title": "Vue 3",
-                            "description": "Capable of building and deploying complex Vue applications."
+                            "description": "Capable of building and deploying Vue applications."
                         },
                         "es": {
                             "title": "Vue 3",
                             "description": "Capaz de construir y desplegar aplicaciones complejas con Vue."
-                        },
-                        "fr": {
-                            "title": "Vue 3",
-                            "description": "Capable de créer et déployer des applications complexes avec Vue."
-                        },
-                        "zh": {
-                            "title": "Vue 3",
-                            "description": "能够构建和部署复杂的Vue应用程序。"
                         }
                     }
                 }
@@ -318,9 +234,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Backend Stack"},
-                "es": {"title": "Stack de Backend"},
-                "fr": {"title": "Stack Backend"},
-                "zh": {"title": "后端技术栈"}
+                "es": {"title": "Stack de Backend"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -332,8 +246,8 @@
             },
             "items": [
                 {
-                    "id": 1,
-                    "dateStart": {"year": 2020, "month": 1},
+                    "id": 4,
+                    "dateStart": {"year": 2024, "month": 8},
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
@@ -346,25 +260,17 @@
                         "es": {
                             "title": "MySQL",
                             "description": "Hábil en gestionar bases de datos MySQL, incluyendo diseño de esquemas y optimización de consultas."
-                        },
-                        "fr": {
-                            "title": "MySQL",
-                            "description": "Compétent dans la gestion de bases de données MySQL, y compris la conception de schémas et l'optimisation des requêtes."
-                        },
-                        "zh": {
-                            "title": "MySQL",
-                            "description": "擅长管理MySQL数据库，包括模式设计和查询优化。"
                         }
                     }
                 },
 
                 {
                     "id": 2,
-                    "dateStart": {"year": 2021, "month": 1},
+                    "dateStart": {"year": 2025, "month": 0},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-php",
                     "fallbackFaIconColor": null,
-                    "percentage": 80,
+                    "percentage": 70,
                     "locales": {
                         "en": {
                             "title": "PHP",
@@ -373,25 +279,17 @@
                         "es": {
                             "title": "PHP",
                             "description": "Experto en construir aplicaciones web dinámicas con PHP, incluyendo lógica del servidor e integración de bases de datos."
-                        },
-                        "fr": {
-                            "title": "PHP",
-                            "description": "Expérimenté dans la création d'applications web dynamiques avec PHP, y compris la logique serveur et l'intégration de bases de données."
-                        },
-                        "zh": {
-                            "title": "PHP",
-                            "description": "擅长使用PHP构建动态网页应用，包括服务器端逻辑和数据库集成。"
                         }
                     }
                 },
 
                 {
-                    "id": 3,
-                    "dateStart": {"year": 2022, "month": 1},
+                    "id": 1,
+                    "dateStart": {"year": 2019, "month": 2},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-java",
                     "fallbackFaIconColor": null,
-                    "percentage": 55,
+                    "percentage": 80,
                     "locales": {
                         "en": {
                             "title": "Java",
@@ -400,21 +298,13 @@
                         "es": {
                             "title": "Laravel",
                             "description": ""
-                        },
-                        "fr": {
-                            "title": "Laravel",
-                            "description": ""
-                        },
-                        "zh": {
-                            "title": "Laravel",
-                            "description": ""
                         }
                     }
                 },
 
                 {
-                    "id": 4,
-                    "dateStart": {"year": 2023, "month": 1},
+                    "id": 3,
+                    "dateStart": {"year": 2025, "month": 1},
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-star-of-life",
                     "fallbackFaIconColor": null,
@@ -425,14 +315,6 @@
                             "description": ""
                         },
                         "es": {
-                            "title": "NodeJS",
-                            "description": ""
-                        },
-                        "fr": {
-                            "title": "NodeJS",
-                            "description": ""
-                        },
-                        "zh": {
                             "title": "NodeJS",
                             "description": ""
                         }
@@ -446,9 +328,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Languages"},
-                "es": {"title": "Idiomas"},
-                "fr": {"title": "Langues"},
-                "zh": {"title": "语言"}
+                "es": {"title": "Idiomas"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -476,16 +356,6 @@
                             "title": "Inglés",
                             "description": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
                             "level": "Nativo"
-                        },
-                        "fr": {
-                            "title": "Anglais",
-                            "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture.",
-                            "level": "Langue maternelle"
-                        },
-                        "zh": {
-                            "title": "英语",
-                            "description": "母语人士，具有出色的沟通和写作能力。",
-                            "level": "母语"
                         }
                     }
                 },
@@ -507,16 +377,6 @@
                             "title": "Español",
                             "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional.",
                             "level": "Fluido"
-                        },
-                        "fr": {
-                            "title": "Espagnol",
-                            "description": "Courant à la fois à l'oral et à l'écrit en espagnol ; confiant dans la communication professionnelle.",
-                            "level": "Courant"
-                        },
-                        "zh": {
-                            "title": "西班牙语",
-                            "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。",
-                            "level": "流利"
                         }
                     }
                 }

@@ -23,17 +23,27 @@
               "list": {
                 "title": "Key Responsibilities",
                 "items": [
-                  "Created <strong>custom Spigot plugins</strong>, configurations, and a full-featured webstore.",
-                  "Engineered <strong>performance optimizations</strong> and implemented <strong>security protections</strong> to ensure smooth gameplay for 200+ concurrent users.",
-                  "Maintained and evolved the game server infrastructure to support <strong>mini-games and custom mechanics</strong>.",
-                  "https://goldynet.craftingstore.net/"
-                ]
+
+
+            "Created <strong>custom Spigot plugins</strong>, configurations, and a full-featured webstore.",
+
+
+            "Engineered <strong>performance optimizations</strong> and implemented <strong>security protections</strong> to ensure smooth gameplay for 200+ concurrent users.",
+
+
+            "Maintained and evolved the game server infrastructure to support <strong>mini-games and custom mechanics</strong>.",
+
+
+            "https://goldynet.craftingstore.net/"
+
+
+          ]
               },
               "province": "Remote",
               "country": "",
               "institution": "Goldy Network",
-              "tags": ["Java", "Spigot", "Minecraft", "Server Optimization", "Plugin Development", "Security", "Web-Store Development"]
-            },
+
+        "tags": ["Java", "Spigot", "Minecraft", "Server Optimization", "Plugin Development", "Security", "Web-Store Development"]            },
             "es": {
               "title": "Java programer i Minecraft server specijalista",
               "description": "Vodio razvoj inovativnih <strong>mini-igara</strong> i unaprijedio <strong>infrastrukturu Minecraft servera</strong> kako bi pružio visokokvalitetno iskustvo za YouTubera Goldenita i njegove gledaoce. Razvio rješenja za performanse i monetizaciju.",
@@ -66,17 +76,25 @@
               "description": "Configured and optimized traditional <strong>Minecraft gamemodes</strong> such as <strong>Skyblock</strong>, <strong>SkyPvP</strong>, and <strong>Factions</strong>, enhancing server stability, gameplay balance, and player retention.",
               "list": {
                 "title": "Key Responsibilities",
-                "items": [
-                  "Konfigurisao i balansirao <strong>Skyblock</strong>, <strong>SkyPvP</strong> i <strong>Factions</strong> modove za konkurentnost i zadovoljstvo igrača.",
-                  "Održavao <strong>konfiguracije servera</strong> kako bi podržao jedinstvene mehanike igre.",
-                  "Kreirao i sproveo <strong>strategije oglašavanja</strong> za privlačenje igrača sa konkurentskih servera i povećanje baze lojalnih korisnika."
-                ]
+
+  "items": [
+
+
+    "Configured and balanced <strong>Skyblock</strong>, <strong>SkyPvP</strong>, and <strong>Factions</strong> game modes for competitiveness, and player satisfaction.",
+
+
+    "Maintained <strong>server configurations</strong> to support unique gameplay mechanics.",
+
+
+    "Designed and executed <strong>advertising strategies</strong> to attract players from competing servers and grow a loyal player base."
+
+
+  ]
               },
               "province": "Remote",
               "country": "",
               "institution": "Brutalci Community",
-              "tags": ["Java", "Spigot", "Minecraft", "Optimizacija servera", "Strategije oglašavanja"]
-            },
+        "tags": ["Java", "Spigot", "Minecraft", "Server Optimization", "Advertising Strategies"]            },
             "es": {
               "title": "Specijalista za Minecraft servere",
               "description": "Konfigurisao i optimizovao tradicionalne <strong>Minecraft modove</strong> kao što su <strong>Skyblock</strong>, <strong>SkyPvP</strong> i <strong>Factions</strong>, poboljšavajući stabilnost servera, balans igre i zadržavanje igrača.",
@@ -109,16 +127,18 @@
               "list": {
                 "title": "Key Responsibilities",
                 "items": [
-                  "Radio timski sa drugim studentima na izradi <strong>mobilne aplikacije</strong> koristeći <strong>Java</strong>.",
-                  "Razvio ključne funkcionalnosti i logiku korisničkog interfejsa u <strong>Android Studio</strong> okruženju prema zahtjevima takmičenja.",
-                  "Primijenio vještine rješavanja problema kako bi odgovorio na izazove vezane za knjigovodstvo iz stvarnog svijeta."
-                ]
+          "Worked collaboratively in a student team to create a <strong>mobile application</strong> using <strong>Java</strong>.",
+          "Developed core features and UI logic in <strong>Android Studio</strong> based on competition requirements.",
+          "Applied problem-solving skills to address real-world accounting-related challenges."
+
+
+        ]
               },
               "province": "",
               "country": "",
               "institution": "Unija Accounting",
-              "tags": ["Java", "Android Studio", "Timski rad", "Razvoj mobilnih aplikacija"]
-            },
+              "tags": ["Java", "Android Studio", "Teamwork", "Mobile Development"]
+                },
             "es": {
               "title": "Mobilna aplikacija – Regionalno studentsko takmičenje",
               "description": "Učestvovao na regionalnom takmičenju <strong>Unija IT Solution</strong>, razvijajući mobilnu aplikaciju prilagođenu potrebama knjigovodstvene firme. Radio timski i koristio razvoj u Javi za izradu funkcionalnog prototipa u ograničenom vremenskom roku.",
@@ -150,22 +170,37 @@
               "description": "Actively developing the <strong>Castle Siege</strong> game mode plugin for Minecraft, leveraging the <strong>Spigot API</strong> and <strong>Java</strong> to bring innovative gameplay mechanics to the community. The plugin has surpassed <strong>4000+ downloads</strong> across major platforms, and development continues based on community feedback and feature suggestions.",
               "list": {
                 "title": "Key Responsibilities",
-                "items": [
-                  "Osmislio i implementirao napredne <strong>mehanike igre</strong> uključujući timove, kitove, statistiku i regeneraciju mapa.",
-                  "Komunicirao sa Minecraft zajednicom kako bi <strong>prikupio povratne informacije</strong> i brzo iterirao ažuriranja.",
-                  "Održavao i objavljivao ažuriranja putem <strong>GitHub</strong>, <strong>SpigotMC</strong> i <strong>Modrinth</strong> platformi.",
-                  "https://github.com/cbhud/CastleSiege",
-                  "https://www.spigotmc.org/resources/castle-siege-teams-kits-stats-map-regeneration-more.115123/",
-                  "https://modrinth.com/plugin/castlesiege"
-                ]
+                
+        "items": [
+
+
+          "Designed and implemented advanced <strong>game mechanics</strong> including teams, kits, stats tracking, and map regeneration.",
+
+
+          "Engaged with the Minecraft community to <strong>collect feedback</strong> and iterate quickly on updates.",
+
+
+          "Maintained and released updates through <strong>GitHub</strong>, <strong>SpigotMC</strong>, and <strong>Modrinth</strong> platforms.",
+
+
+          "https://github.com/cbhud/CastleSiege",
+
+
+          "https://www.spigotmc.org/resources/castle-siege-teams-kits-stats-map-regeneration-more.115123/",
+
+
+          "https://modrinth.com/plugin/castlesiege"
+
+
+        ]
               },
               "province": "Remote",
               "country": "",
               "institution": "Minecraft Game Plugin",
-              "tags": ["Java", "Spigot", "Minecraft", "Razvoj igara", "Interakcija sa zajednicom"]
+              "tags": ["Java", "Spigot", "Minecraft", "Game Development", "Community Engagement"]
             },
             "es": {
-              "title": "Minecraft dodatak – Castle Siege",
+              "title": "Minecraft plugin – Castle Siege",
               "description": "Aktivno razvijam <strong>Castle Siege</strong> dodatak za Minecraft koristeći <strong>Spigot API</strong> i <strong>Java</strong> kako bih zajednici donio inovativne mehanike igranja. Dodatak je prešao <strong>4000+ preuzimanja</strong> na velikim platformama, a razvoj se nastavlja na osnovu povratnih informacija korisnika.",
               "list": {
                 "title": "Ključne odgovornosti",
@@ -184,7 +219,57 @@
               "tags": ["Java", "Spigot", "Minecraft", "Razvoj igara", "Zajednica"]
             }
           }
-        }
+        },
+        {
+  "id": 5,
+  "dateStart": { "year": 2025, "month": 3 },
+  "dateEnd": { "year": 2025, "month": 5 },
+  "img": "images/places/oh.jpg",
+  "fallbackFaIcon": null,
+  "fallbackFaIconColor": null,
+  "locales": {
+    "en": {
+      "title": "E-commerce Site – Organic Health Store",
+      "description": "Developed a complete <strong>e-commerce platform</strong> for a local health store using <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>AJAX</strong>, <strong>HTML</strong>, and <strong>CSS</strong>. This final university project emphasizes modern <strong>web development</strong> and <strong>security best practices</strong>, offering a robust, scalable, and user-friendly shopping experience.",
+      "list": {
+        "title": "Key Responsibilities",
+        "items": [
+          "Engineered secure <strong>user authentication</strong> with password hashing, input validation, and session management.",
+          "Built a dynamic <strong>admin panel</strong> for managing products, categories, orders, and reports.",
+          "Implemented interactive <strong>shopping cart and checkout</strong> functionality with AJAX for real-time updates.",
+          "Developed <strong>role-based access</strong> and centralized database architecture with optimized queries.",
+          "Designed responsive <strong>frontend UI</strong> for seamless user experience across devices.",
+          "Created utility features like live search, CSV reporting, and admin product/order tools.",
+          "https://organichealth.zya.me/index.php"
+        ]
+      },
+      "province": "Remote",
+      "country": "",
+      "institution": "Local Business",
+      "tags": ["PHP", "JavaScript", "AJAX", "E-commerce", "Web Development", "Security"]
+    },
+    "es": {
+      "title": "E-commerce sajt – Organic Health Store",
+      "description": "Razvio sam kompletan <strong>e-commerce sistem</strong> za lokalnu prodavnicu zdrave hrane koristeći <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>AJAX</strong>, <strong>HTML</strong> i <strong>CSS</strong>. Projekat je urađen kao završni univerzitetski rad, sa fokusom na moderne <strong>veb tehnologije</strong> i <strong>sigurnosne prakse</strong>, pružajući skalabilno i korisniku prilagođeno online iskustvo.",
+      "list": {
+        "title": "Ključne odgovornosti",
+        "items": [
+          "Razvijena sigurna <strong>autentifikacija korisnika</strong> sa hash-ovanjem lozinki i upravljanjem sesijama.",
+          "Napravljen <strong>admin panel</strong> za upravljanje proizvodima, kategorijama, porudžbinama i izveštajima.",
+          "Implementiran <strong>interaktivni korpa i checkout</strong> sistem sa AJAX-om za ažuriranja u realnom vremenu.",
+          "Korišćen <strong>sistem uloga</strong> i centralizovana baza podataka sa optimizovanim upitima.",
+          "Dizajniran <strong>responsive frontend</strong> koji radi na svim uređajima.",
+          "Dodate funkcije poput pretrage uživo, CSV izveštaja i admin alata za porudžbine i proizvode.",
+          "https://organichealth.zya.me/index.php"
+        ]
+      },
+      "province": "Online",
+      "country": "",
+      "institution": "Lokalni biznis",
+      "tags": ["PHP", "JavaScript", "AJAX", "E-trgovina", "Veb razvoj", "Sigurnost"]
+    }
+  }
+}
       ]
     }
   ]

@@ -8,14 +8,14 @@
             "type": "centered",
             "locales": {
                 "en": {
-                    "title": "Welcome to *CBHud's resume!*",
-                    "title_short": "Welcome!",
+                    "title": "Welcome to *CBHud's Dev Services!*",
+                    "title_short": "*CBHud's Dev Services!*",
                     "description": null,
                     "nav_label": "About"
                 },
                 "es": {
-                    "title": "Dobrodošli u *moj CV!*",
-                    "title_short": "Dobrodošli!",
+                    "title": "*CBHud's Dev Services!*",
+                    "title_short": "*CBHud's Dev Services!*",
                     "description": null,
                     "nav_label": "O meni"
                 }
@@ -32,13 +32,13 @@
                 "en": {
                     "title": "*Education* Background",
                     "title_short": null,
-                    "description": "My academic journey so far.",
+                    "description": "My academic background.",
                     "nav_label": "Education"
                 },
                 "es": {
-                    "title": "*Obrazovno* Pozadina",
+                    "title": "*Akademska* Pozadina",
                     "title_short": null,
-                    "description": "Pogled na moje akademsko obrazovanje i postignuća.",
+                    "description": "Akademska pozadina",
                     "nav_label": "Obrazovanje"
                 }
             }
@@ -54,13 +54,13 @@
                 "en": {
                     "title": "*Skill* Set",
                     "title_short": null,
-                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "description": "Exploring the diverse range of skills I've acquired over the time:",
                     "nav_label": "Skills"
                 },
                 "es": {
-                    "title": "Skup *Vještina*",
+                    "title": "*Vještine*",
                     "title_short": null,
-                    "description": "Istraživanje različitih vještina koje sam stekao i razvijao:",
+                    "description": "Istraživanje različitih vještina koje sam stekao:",
                     "nav_label": "Vještine"
                 }
             }
@@ -98,13 +98,13 @@
                 "en": {
                     "title": "My *Portfolio*",
                     "title_short": null,
-                    "description": "Explore a selection of my recent projects and creative works.",
+                    "description": "Explore a selection of my recent projects.",
                     "nav_label": "Portfolio"
                 },
                 "es": {
                     "title": "Moj *Portfolio*",
                     "title_short": null,
-                    "description": "Istražite izbor mojih najnovijih projekata i kreativnih radova.",
+                    "description": "Pregled mojih projekata.",
                     "nav_label": "Portfolio"
                 }
             }
@@ -120,13 +120,13 @@
                 "en": {
                     "title": "Career *Achievements*",
                     "title_short": null,
-                    "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:",
+                    "description": "",
                     "nav_label": "Achievements"
                 },
                 "es": {
                     "title": "*Profesionalna* Dostignuća",
                     "title_short": null,
-                    "description": "Moj put kao UX dizajnera obilježen je posvećenošću učenju i usavršavanju vještina, uz entuzijastično učešće na dizajnerskim događajima. Kao rezultat toga, prikupio sam niz značajnih nagrada i sertifikata:",
+                    "description": "",
                     "nav_label": "Dostignuća"
                 }
             }
@@ -148,7 +148,7 @@
                 "es": {
                     "title": "*Hobiji* i Interesovanja",
                     "title_short": null,
-                    "description": "Ovako uglavnom provodim svoje slobodno vrijeme:",
+                    "description": "",
                     "nav_label": "Hobiji"
                 }
             }
@@ -164,13 +164,13 @@
                 "en": {
                     "title": "*Contact* Me",
                     "title_short": null,
-                    "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+                    "description": "Please don't hesitate to get in touch with me!",
                     "nav_label": "Contact"
                 },
                 "es": {
                     "title": "Stupi u *Kontakt*",
                     "title_short": null,
-                    "description": "Slobodno me kontaktiraj kad god osjetiš potrebu!",
+                    "description": "Slobodno me kontaktiraj!",
                     "nav_label": "Kontakt"
                 }
             }

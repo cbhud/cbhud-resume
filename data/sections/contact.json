@@ -41,7 +41,7 @@
             "settings": {
                 "order_items_by": "id",
                 "order_items_sort": "asc",
-                "contact_ids": ["address", "phone", "email", "linkedin", "facebook", "github", "discord"]
+                "contact_ids": ["instagram", "phone", "email", "linkedin", "facebook", "github", "discord"]
             },
             "items": null
         }

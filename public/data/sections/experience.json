@@ -9,35 +9,117 @@
                 "order_items_sort": "desc"
             },
             "items": [
-                {
-                    "id": 1,
-                    "dateStart": {"year": 2015, "month": 1},
-                    "dateEnd": {"year": 2017, "month": 12},
-                    "img": "images/places/logo-ux-studio.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
+  {
+    "id": 1,
+    "dateStart": { "year": 2020, "month": 10 },
+    "dateEnd": { "year": 2021, "month": 2 },
+    "img": "images/places/gn.png",
+    "fallbackFaIcon": null,
+    "fallbackFaIconColor": null,
+    "locales": {
+      "en": {
+        "title": "Java Developer & Minecraft Server Specialist",
+        "description": "Led the development of innovative <strong>mini-game features</strong> and enhanced <strong>Minecraft server infrastructure</strong> to deliver high-quality experiences for youtuber Goldenito and his viewers. Delivered solutions for performance, and monetization.",
+        "list": {
+          "title": "Key Responsibilities",
+          "items": [
+            "Created <strong>custom Spigot plugins</strong>, configurations, and a full-featured webstore.",
+            "Engineered <strong>performance optimizations</strong> and implemented <strong>security protections</strong> to ensure smooth gameplay for 200+ concurrent users.",
+            "Maintained and evolved the game server infrastructure to support <strong>mini-games and custom mechanics</strong>.",
+            "https://goldynet.craftingstore.net/"
+          ]
+        },
+        "province": "Remote",
+        "country": "",
+        "institution": "Goldy Network",
+        "tags": ["Java", "Spigot", "Minecraft", "Server Optimization", "Plugin Development", "Security", "Web-Store Development"]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "dateStart": { "year": 2021, "month": 8 },
+    "dateEnd": { "year": 2022, "month": 1 },
+    "img": "images/places/bn.jpg",
+    "fallbackFaIcon": null,
+    "fallbackFaIconColor": null,
+    "locales": {
+      "en": {
+        "title": "Minecraft Server Specialist",
+"description": "Configured and optimized traditional <strong>Minecraft gamemodes</strong> such as <strong>Skyblock</strong>, <strong>SkyPvP</strong>, and <strong>Factions</strong>, enhancing server stability, gameplay balance, and player retention.",        
+"list": {
+          "title": "Key Responsibilities",
+  "items": [
+    "Configured and balanced <strong>Skyblock</strong>, <strong>SkyPvP</strong>, and <strong>Factions</strong> game modes for competitiveness, and player satisfaction.",
+    "Maintained <strong>server configurations</strong> to support unique gameplay mechanics.",
+    "Designed and executed <strong>advertising strategies</strong> to attract players from competing servers and grow a loyal player base."
+  ]
+        },
+        "province": "Remote",
+        "country": "",
+        "institution": "Brutalci Community",
+        "tags": ["Java", "Spigot", "Minecraft", "Server Optimization", "Advertising Strategies"]
+      }
+    }
+  },
+  {
+  "id": 3,
+  "dateStart": { "year": 2023, "month": 9 },
+  "dateEnd": { "year": 2023, "month": 10 },
+  "img": "images/places/unija.jpg",
+  "fallbackFaIcon": null,
+  "fallbackFaIconColor": null,
+  "locales": {
+    "en": {
+      "title": "Mobile App – Regional Student Competition",
+      "description": "Participated in the <strong>Unija IT Solution</strong> regional competition, developing a mobile application tailored to the needs of an accounting firm. Collaborated in a team setting and applied Java-based development to deliver a working prototype within a limited timeframe.",
+      "list": {
+        "title": "Key Responsibilities",
+        "items": [
+          "Worked collaboratively in a student team to create a <strong>mobile application</strong> using <strong>Java</strong>.",
+          "Developed core features and UI logic in <strong>Android Studio</strong> based on competition requirements.",
+          "Applied problem-solving skills to address real-world accounting-related challenges."
+        ]
+      },
+      "province": "",
+      "country": "",
+      "institution": "Unija Accounting",
+      "tags": ["Java", "Android Studio", "Teamwork", "Mobile Development"]
+    }
+  }
+},
+{
+  "id": 4,
+  "dateStart": { "year": 2023, "month": 11 },
+  "dateEnd": {"year": 2033, "month": 11},
+  "img": "images/places/cs.webp",
+  "fallbackFaIcon": null,
+  "fallbackFaIconColor": null,
+  "locales": {
+    "en": {
+      "title": "Minecraft Plugin – Castle Siege",
+      "description": "Actively developing the <strong>Castle Siege</strong> game mode plugin for Minecraft, leveraging the <strong>Spigot API</strong> and <strong>Java</strong> to bring innovative gameplay mechanics to the community. The plugin has surpassed <strong>4000+ downloads</strong> across major platforms, and development continues based on community feedback and feature suggestions.",
+      "list": {
+        "title": "Key Responsibilities",
+        "items": [
+          "Designed and implemented advanced <strong>game mechanics</strong> including teams, kits, stats tracking, and map regeneration.",
+          "Engaged with the Minecraft community to <strong>collect feedback</strong> and iterate quickly on updates.",
+          "Maintained and released updates through <strong>GitHub</strong>, <strong>SpigotMC</strong>, and <strong>Modrinth</strong> platforms.",
+          "https://github.com/cbhud/CastleSiege",
+          "https://www.spigotmc.org/resources/castle-siege-teams-kits-stats-map-regeneration-more.115123/",
+          "https://modrinth.com/plugin/castlesiege"
+        ]
+      },
+      "province": "Remote",
+      "country": "",
+      "institution": "Minecraft Game Plugin",
+      "tags": ["Java", "Spigot", "Minecraft", "Game Development", "Community Engagement"]
+    }
+  }
+}
 
-                    "locales": {
-                        "en": {
-                            "title": "UX Designer",
-                            "description": "Contributed to designing <strong>intuitive</strong> and <strong>user-friendly</strong> web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs.",
-                            "list": {
-                                "title": "Key Responsibilities",
-                                "items": [
-                                    "Conducted <strong>user research</strong> to gather insights and inform design decisions.",
-                                    "Created wireframes, prototypes, and high-fidelity designs using <strong>Figma.</strong>",
-                                    "Collaborated with developers to ensure <strong>design feasibility</strong> and implementation.",
-                                    "Conducted <strong>usability testing</strong> to validate designs and gather feedback."
-                                ]
-                            },
-                            "province": "Hannover",
-                            "country": "Germany",
-                            "institution": "UX Masters Studio",
-                            "tags": ["Figma", "Wireframing", "Prototyping", "Responsive Design", "User Research"]
-                        }
-                    }
-                }
-            ]
+
+]
         }
     ]
 }

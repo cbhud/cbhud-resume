@@ -1,386 +1,377 @@
 {
-    "articles": [
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleSkills",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": false,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
         {
-            "id": 1,
-            "component": "ArticleSkills",
-            "locales": {},
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc",
-                "max_items_per_line": 2,
-                "transparent_item_icon_background": false,
-                "small_icons": false,
-                "chart": null
+          "id": 1,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-laptop-code",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Backend Development",
+              "description": "Experienced in building robust backend systems using Java, PHP, and frameworks like Quarkus, including API design, database integration, and efficient data management.",
+              "level": null
             },
-            "items": [
-                                {
-                    "id": 1,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-laptop-code",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Backend Development",
-                            "description": "Experienced in building robust backend systems using Java, PHP, and frameworks like Quarkus, including API design, database integration, and efficient data management.",
-                            "level": null
-                        }
-                    }
-                },
-                {
-                    "id": 3,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-code",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Web Application Development",
-                            "description": "Proficient in creating dynamic and responsive web applications using PHP, JavaScript, HTML, CSS, and Vue.js, ensuring smooth performance across devices.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Principios de Diseño",
-                            "description": "Experto en diseño: fusiono teoría del color, tipografía, layout y equilibrio para cautivar y transmitir mensajes.",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 2,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-mobile-alt",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Responsive Layouts",
-                            "description": "Capable of building user-friendly interfaces and maintaining consistent user experiences with modern frontend technologies.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Diseños Responsivos",
-                            "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima.",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 6,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-graduation-cap",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Academic & Prototype Projects",
-                            "description": "Experienced in translating academic requirements into functional software solutions, with a focus on clean code, documentation, and proof-of-concept builds.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Creación de Wireframes",
-                            "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario.",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 4,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-database",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Database Design",
-                            "description": "Adept at designing, optimizing, and integrating relational databases such as MySQL or Postgres for seamless application performance.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Pruebas de Usabilidad",
-                            "description": "Experiencia en mejorar experiencias de usuario mediante pruebas exhaustivas de usabilidad.",
-                            "level": null
-                        }
-                    }
-                },
-
-                {
-                    "id": 5,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-gamepad",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Plugin Development",
-                            "description": "Skilled in developing Minecraft plugins with Java and the Spigot API, delivering engaging gameplay experiences.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Diseño de Interacción",
-                            "description": "Competente en la creación de interacciones intuitivas y fluidas para experiencias amigables para el usuario.",
-                            "level": null
-                        }
-                    }
-                }
-            ]
+            "es": {
+              "title": "Razvoj Pozadinskih Sistema",
+              "description": "Iskusan u izradi robusnih backend sistema koristeći Java, PHP i okvire poput Quarkus-a, uključujući dizajn API-ja, integraciju baza podataka i efikasno upravljanje podacima.",
+              "level": null
+            }
+          }
         },
-
         {
-            "id": 2,
-            "component": "ArticleSkills",
-            "locales": {
-                "en": {"title": "Frontend Stack"},
-                "es": {"title": "Stack de Frontend"}
+          "id": 3,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-code",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Web Application Development",
+              "description": "Proficient in creating dynamic and responsive web applications using PHP, JavaScript, HTML, CSS, and Vue.js, ensuring smooth performance across devices.",
+              "level": null
             },
-            "settings": {
-                "order_items_by": "percentage",
-                "order_items_sort": "desc",
-                "max_items_per_line": 2,
-                "transparent_item_icon_background": true,
-                "small_icons": false,
-                "chart": null
-            },
-            "items": [
-                {
-                    "id": 1,
-                    "dateStart": {"year": 2019, "month": 5},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-html5",
-                    "fallbackFaIconColor": null,
-                    "percentage": 100,
-                    "locales": {
-                        "en": {
-                            "title": "HTML 5",
-                            "description": "Experienced with HTML5 elements and features."
-                        },
-                        "es": {
-                            "title": "HTML 5",
-                            "description": "Experto en elementos y características de HTML5."
-                        }
-                    }
-                },
-
-                {
-                    "id": 2,
-                    "dateStart": {"year": 2019, "month": 5},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-css3-alt",
-                    "fallbackFaIconColor": null,
-                    "percentage": 90,
-                    "locales": {
-                        "en": {
-                            "title": "CSS 3",
-                            "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
-                        },
-                        "es": {
-                            "title": "CSS 3",
-                            "description": "Experto en técnicas avanzadas de CSS3 como flexbox y animaciones."
-                        }
-                    }
-                },
-
-                {
-                    "id": 3,
-                    "dateStart": {"year": 2023, "month": 5},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-js-square",
-                    "fallbackFaIconColor": null,
-                    "percentage": 75,
-                    "locales": {
-                        "en": {
-                            "title": "Javascript",
-                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
-                        },
-                        "es": {
-                            "title": "Javascript",
-                            "description": "Experto en JavaScript para aplicaciones web dinámicas e interactivas."
-                        }
-                    }
-                },
-
-                {
-                    "id": 4,
-                    "dateStart": {"year": 2025, "month": 6},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-vuejs",
-                    "fallbackFaIconColor": null,
-                    "percentage": 10,
-                    "locales": {
-                        "en": {
-                            "title": "Vue 3",
-                            "description": "Capable of building and deploying Vue applications."
-                        },
-                        "es": {
-                            "title": "Vue 3",
-                            "description": "Capaz de construir y desplegar aplicaciones complejas con Vue."
-                        }
-                    }
-                }
-            ]
+            "es": {
+              "title": "Razvoj Web Aplikacija",
+              "description": "Vješt u kreiranju dinamičnih i responzivnih web aplikacija koristeći PHP, JavaScript, HTML, CSS i Vue.js, uz obezbjeđenje besprekornog rada na svim uređajima.",
+              "level": null
+            }
+          }
         },
-
         {
-            "id": 3,
-            "component": "ArticleSkills",
-            "locales": {
-                "en": {"title": "Backend Stack"},
-                "es": {"title": "Stack de Backend"}
+          "id": 2,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-mobile-alt",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Responsive Layouts",
+              "description": "Capable of building user-friendly interfaces and maintaining consistent user experiences with modern frontend technologies.",
+              "level": null
             },
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc",
-                "max_items_per_line": 2,
-                "transparent_item_icon_background": true,
-                "small_icons": false,
-                "chart": null
-            },
-            "items": [
-                {
-                    "id": 4,
-                    "dateStart": {"year": 2024, "month": 8},
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-database",
-                    "fallbackFaIconColor": null,
-                    "percentage": 85,
-                    "locales": {
-                        "en": {
-                            "title": "Relational Databases",
-                            "description": "Skilled in managing MySQL, Postgres databases, including schema design and query optimization."
-                        },
-                        "es": {
-                            "title": "MySQL",
-                            "description": "Hábil en gestionar bases de datos MySQL, incluyendo diseño de esquemas y optimización de consultas."
-                        }
-                    }
-                },
-
-                {
-                    "id": 2,
-                    "dateStart": {"year": 2025, "month": 0},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-php",
-                    "fallbackFaIconColor": null,
-                    "percentage": 70,
-                    "locales": {
-                        "en": {
-                            "title": "PHP",
-                            "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
-                        },
-                        "es": {
-                            "title": "PHP",
-                            "description": "Experto en construir aplicaciones web dinámicas con PHP, incluyendo lógica del servidor e integración de bases de datos."
-                        }
-                    }
-                },
-
-                {
-                    "id": 1,
-                    "dateStart": {"year": 2019, "month": 2},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-java",
-                    "fallbackFaIconColor": null,
-                    "percentage": 80,
-                    "locales": {
-                        "en": {
-                            "title": "Java",
-                            "description": ""
-                        },
-                        "es": {
-                            "title": "Laravel",
-                            "description": ""
-                        }
-                    }
-                },
-
-                {
-                    "id": 3,
-                    "dateStart": {"year": 2025, "month": 1},
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-star-of-life",
-                    "fallbackFaIconColor": null,
-                    "percentage": 40,
-                    "locales": {
-                        "en": {
-                            "title": "Quarkus",
-                            "description": ""
-                        },
-                        "es": {
-                            "title": "NodeJS",
-                            "description": ""
-                        }
-                    }
-                }
-            ]
+            "es": {
+              "title": "Responzivni Dizajn",
+              "description": "Sposoban za kreiranje korisnički prijatnih interfejsa uz dosljedno korisničko iskustvo koristeći moderne frontend tehnologije.",
+              "level": null
+            }
+          }
         },
-
         {
-            "id": 4,
-            "component": "ArticleSkills",
-            "locales": {
-                "en": {"title": "Languages"},
-                "es": {"title": "Idiomas"}
+          "id": 6,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-graduation-cap",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Academic & Prototype Projects",
+              "description": "Experienced in translating academic requirements into functional software solutions, with a focus on clean code, documentation, and proof-of-concept builds.",
+              "level": null
             },
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc",
-                "max_items_per_line": 1,
-                "small_icons": true,
-                "transparent_item_icon_background": true,
-                "chart": null
+            "es": {
+              "title": "Akademski i Prototip Projekti",
+              "description": "Iskustvo u prevođenju akademskih zahtjeva u funkcionalna softverska rješenja, uz fokus na čist kod, dokumentaciju i izradu prototipa.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-database",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Database Design",
+              "description": "Adept at designing, optimizing, and integrating relational databases such as MySQL or Postgres for seamless application performance.",
+              "level": null
             },
-            "items": [
-                {
-                    "id": 1,
-                    "dateStart": null,
-                    "img": "images/flags/me.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Montenegrin",
-                            "description": "Native speaker.",
-                            "level": "Native"
-                        },
-                        "es": {
-                            "title": "Inglés",
-                            "description": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
-                            "level": "Nativo"
-                        }
-                    }
-                },
-
-                {
-                    "id": 2,
-                    "dateStart": null,
-                    "img": "images/flags/en-uk.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "English",
-                            "description": "Fluent in both spoken and written English; confident in professional communication.",
-                            "level": "Fluent"
-                        },
-                        "es": {
-                            "title": "Español",
-                            "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional.",
-                            "level": "Fluido"
-                        }
-                    }
-                }
-            ]
+            "es": {
+              "title": "Dizajn Baza Podataka",
+              "description": "Vješt u dizajniranju, optimizaciji i integraciji relacionih baza podataka kao što su MySQL i Postgres radi nesmetanog rada aplikacija.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 5,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-gamepad",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Plugin Development",
+              "description": "Skilled in developing Minecraft plugins with Java and the Spigot API, delivering engaging gameplay experiences.",
+              "level": null
+            },
+            "es": {
+              "title": "Razvoj Pluginova",
+              "description": "Iskusan u razvoju Minecraft pluginova koristeći Java i Spigot API, pružajući zanimljivo iskustvo igranja.",
+              "level": null
+            }
+          }
         }
-    ]
+      ]
+    },
+    {
+      "id": 2,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": { "title": "Frontend Stack" },
+        "es": { "title": "Frontend Tehnologije" }
+      },
+      "settings": {
+        "order_items_by": "percentage",
+        "order_items_sort": "desc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": { "year": 2019, "month": 5 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-html5",
+          "fallbackFaIconColor": null,
+          "percentage": 100,
+          "locales": {
+            "en": {
+              "title": "HTML 5",
+              "description": "Experienced with HTML5 elements and features."
+            },
+            "es": {
+              "title": "HTML 5",
+              "description": "Iskusan u HTML5 elementima i funkcionalnostima."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": { "year": 2019, "month": 5 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-css3-alt",
+          "fallbackFaIconColor": null,
+          "percentage": 90,
+          "locales": {
+            "en": {
+              "title": "CSS 3",
+              "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
+            },
+            "es": {
+              "title": "CSS 3",
+              "description": "Vješt u naprednim CSS3 tehnikama kao što su flexbox i animacije."
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": { "year": 2023, "month": 5 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-js-square",
+          "fallbackFaIconColor": null,
+          "percentage": 75,
+          "locales": {
+            "en": {
+              "title": "Javascript",
+              "description": "Skilled in JavaScript for dynamic, interactive web applications."
+            },
+            "es": {
+              "title": "Javascript",
+              "description": "Vješt u JavaScript-u za dinamične i interaktivne web aplikacije."
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": { "year": 2025, "month": 6 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-vuejs",
+          "fallbackFaIconColor": null,
+          "percentage": 10,
+          "locales": {
+            "en": {
+              "title": "Vue 3",
+              "description": "Capable of building and deploying Vue applications."
+            },
+            "es": {
+              "title": "Vue 3",
+              "description": "Sposoban da razvija i implementira Vue aplikacije."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": { "title": "Backend Stack" },
+        "es": { "title": "Backend Tehnologije" }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 4,
+          "dateStart": { "year": 2024, "month": 8 },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-database",
+          "fallbackFaIconColor": null,
+          "percentage": 85,
+          "locales": {
+            "en": {
+              "title": "Relational Databases",
+              "description": "Skilled in managing MySQL, Postgres databases, including schema design and query optimization."
+            },
+            "es": {
+              "title": "Relacione Baze Podataka",
+              "description": "Vješt u upravljanju MySQL i Postgres bazama podataka, uključujući dizajn šema i optimizaciju upita."
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": { "year": 2025, "month": 0 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-php",
+          "fallbackFaIconColor": null,
+          "percentage": 70,
+          "locales": {
+            "en": {
+              "title": "PHP",
+              "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
+            },
+            "es": {
+              "title": "PHP",
+              "description": "Iskusan u razvoju dinamičnih web aplikacija koristeći PHP, uključujući logiku na strani servera i integraciju baza podataka."
+            }
+          }
+        },
+        {
+          "id": 1,
+          "dateStart": { "year": 2019, "month": 2 },
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-java",
+          "fallbackFaIconColor": null,
+          "percentage": 80,
+          "locales": {
+            "en": {
+              "title": "Java",
+              "description": ""
+            },
+            "es": {
+              "title": "Java",
+              "description": ""
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": { "year": 2025, "month": 1 },
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-star-of-life",
+          "fallbackFaIconColor": null,
+          "percentage": 40,
+          "locales": {
+            "en": {
+              "title": "Quarkus",
+              "description": ""
+            },
+            "es": {
+              "title": "Quarkus",
+              "description": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": { "title": "Languages" },
+        "es": { "title": "Jezici" }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 1,
+        "small_icons": true,
+        "transparent_item_icon_background": true,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": "images/flags/me.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Montenegrin",
+              "description": "Native speaker.",
+              "level": "Native"
+            },
+            "es": {
+              "title": "Crnogorski",
+              "description": "Izvorni govornik.",
+              "level": "Izvorni"
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": "images/flags/en-uk.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "English",
+              "description": "Fluent in both spoken and written English; confident in professional communication.",
+              "level": "Fluent"
+            },
+            "es": {
+              "title": "Engleski",
+              "description": "Tečno govori i piše engleski jezik; siguran u profesionalnoj komunikaciji.",
+              "level": "Tečno"
+            }
+          }
+        }
+      ]
+    }
+  ]
 }

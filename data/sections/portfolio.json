@@ -14,202 +14,205 @@
                 "es": {
                     "title": null,
                     "category_all": "Todos",
-                    "category_productivity": "Productividad",
-                    "category_social": "Social",
-                    "category_utilities": "Utilidades"
-                }
+                    "category_productivity": "Univerzitet",
+                    "category_social": "Freelance"                }
             },
             "settings": {
                 "order_items_by": "id",
                 "order_items_sort": "asc"
             },
-            "items": [
-                {
-                "id": 1,
-                "img": null,
-                "fallbackFaIcon": "fa-solid fa-user-tag",
-                "fallbackFaIconColor": null,
-                "category": "productivity",
-                "locales": {
-                    "en": {
-                    "title": "Suit Store",
-                    "description": "<b>Suit Store</b> was my very first university project — a simple HTML & CSS webpage built with basic technologies. Despite its simplicity, I aimed to maintain a unique and modern aesthetic with an elegant, stylish design. This project marked the beginning of my journey into web development.",
-                    "tags": ["university", "html", "css", "design", "elegant"]
-                    },
-                    "es": {
-                    "description": "<b>Suit Store</b> fue mi primer proyecto universitario: una página web sencilla construida con HTML y CSS básicos. A pesar de su simplicidad, me esforcé por mantener una estética única, moderna y elegante. Este proyecto marcó el inicio de mi camino en el desarrollo web.",
-                    "tags": ["universidad", "html", "css", "diseño", "elegante"]
-                    }
-                },
-                "links": [
-                        {"faIcon": "fa-solid fa-file-lines", "href": "https://cbhud.github.io/suit-store/", "stringKey": "view_site"}
-                    ]
-                },
-                {
-  "id": 2,
-  "img": null,
-  "fallbackFaIcon": "fa-solid fa-users-gear",
-  "fallbackFaIconColor": "#4a7ba1",
-  "category": "social",
-  "locales": {
-    "en": {
-      "title": "Unija-Challenge",
-      "description": "<b>Unija-Challenge</b> is a mobile application developed for the <a href='https://challenge.unija.com/cg/' target='_blank'>Unija Challenge</a> event — a competition focused on creating IT solutions for the accounting company UNIJA.<br><br>The app allows users to take a picture of an accounting document and automatically convert it into a PDF using AI-enhanced image sharpening and OCR (Optical Character Recognition).<br><br>I participated as part of a development team using Java and Android Studio to build the app during the competition.",
-      "tags": ["ocr", "android", "ai", "pdf", "image processing", "java", "accounting"]
+"items": [
+  {
+    "id": 1,
+    "img": null,
+    "fallbackFaIcon": "fa-solid fa-user-tag",
+    "fallbackFaIconColor": null,
+    "category": "productivity",
+    "locales": {
+      "en": {
+        "title": "Suit Store",
+        "description": "<b>Suit Store</b> was my very first university project — a simple HTML & CSS webpage built with basic technologies. Despite its simplicity, I aimed to maintain a unique and modern aesthetic with an elegant, stylish design. This project marked the beginning of my journey into web development.",
+        "tags": ["university", "html", "css", "design", "elegant"]
+      },
+      "es": {
+        "description": "<b>Suit Store</b> je bio moj prvi univerzitetski projekat — jednostavna web stranica napravljena uz pomoć osnovnih HTML i CSS tehnologija. I pored svoje jednostavnosti, težio sam da zadržim jedinstvenu i modernu estetiku uz elegantan i stilizovan dizajn. Ovaj projekat označava početak mog puta u web programiranju.",
+        "tags": ["univerzitet", "html", "css", "dizajn", "elegantno"]
+      }
     },
-    "es": {
-      "description": "<b>Unija-Challenge</b> je mobilna aplikacija razvijena tokom <a href='https://challenge.unija.com/cg/' target='_blank'>Unija Challenge</a> takmičenja — fokusiranog na izradu IT rešenja za potrebe računovodstvene kompanije UNIJA.<br><br>Aplikacija omogućava korisnicima da fotografišu računovodstveni dokument i automatski ga pretvore u PDF pomoću AI poboljšanja slike i OCR (optičko prepoznavanje teksta).<br><br>Učestvovao sam kao deo razvojnog tima koristeći Java programski jezik i Android Studio.",
-      "tags": ["ocr", "android", "ai", "pdf", "obrada slike", "java", "računovodstvo"]
-    }
+    "links": [
+      {
+        "faIcon": "fa-solid fa-file-lines",
+        "href": "https://cbhud.github.io/suit-store/",
+        "stringKey": "view_site"
+      }
+    ]
   },
-  "links": [
-    {
-      "faIcon": "fa-solid fa-link",
-      "href": "https://challenge.unija.com/cg/",
-      "stringKey": "project_website"
+  {
+    "id": 2,
+    "img": null,
+    "fallbackFaIcon": "fa-solid fa-users-gear",
+    "fallbackFaIconColor": "#4a7ba1",
+    "category": "social",
+    "locales": {
+      "en": {
+        "title": "Unija-Challenge",
+        "description": "<b>Unija-Challenge</b> is a mobile application developed for the <a href='https://challenge.unija.com/cg/' target='_blank'>Unija Challenge</a> event — a competition focused on creating IT solutions for the accounting company UNIJA.<br><br>The app allows users to take a picture of an accounting document and automatically convert it into a PDF using AI-enhanced image sharpening and OCR (Optical Character Recognition).<br><br>I participated as part of a development team using Java and Android Studio to build the app during the competition.",
+        "tags": ["ocr", "android", "ai", "pdf", "image processing", "java", "accounting"]
+      },
+      "es": {
+        "description": "<b>Unija-Challenge</b> je mobilna aplikacija razvijena za događaj <a href='https://challenge.unija.com/cg/' target='_blank'>Unija Challenge</a> — takmičenje fokusirano na izradu IT rešenja za računovodstvenu firmu UNIJA.<br><br>Aplikacija omogućava korisnicima da fotografišu računovodstveni dokument i automatski ga konvertuju u PDF pomoću AI poboljšanja slike i OCR tehnologije (optičko prepoznavanje teksta).<br><br>Učestvovao sam kao član razvojnog tima koristeći Java i Android Studio tokom takmičenja.",
+        "tags": ["ocr", "android", "ai", "pdf", "obrada slike", "java", "računovodstvo"]
+      }
     },
-        {
-      "faIcon": "fa-solid fa-image",
-      "href": "https://ibb.co/qF0LrVK",
-      "stringKey": "project_certificate"
-    }
-  ]
-},
-{
-  "id": 3,
-  "img": null,
-  "fallbackFaIcon": "fa-solid fa-train-subway",
-  "fallbackFaIconColor": "#3e8e41",
-  "category": "productivity",
-  "locales": {
-    "en": {
-      "title": "UBP - Railway Management System",
-      "description": "<b>UBP - Railway Management System</b> is a university final project developed for the Introduction to Databases course at the University \"Mediteran\" in Podgorica.<br><br>The system models a real-world railway business, supporting scheduling, ticketing, employee and medical exam tracking, and pricing.<br><br>It includes a fully normalized MySQL database, ER and relational diagrams designed in MySQL Workbench, and a Java console application using JDBC for full CRUD operations. I designed the database, implemented the schema, and developed the application logic as part of the final evaluation.<br><br>The app also supports statistics like ticket sales and monthly revenue reports.",
-      "tags": ["university", "database", "mysql", "jdbc", "java", "crud", "railway"]
-    },
-    "es": {
-      "description": "<b>UBP - Railway Management System</b> es un proyecto final universitario desarrollado para el curso de Introducción a Bases de Datos en la Universidad \"Mediteran\" en Podgorica.<br><br>El sistema simula una empresa ferroviaria real, con funcionalidades de horarios, ventas de boletos, gestión de empleados, exámenes médicos y precios.<br><br>Incluye una base de datos MySQL normalizada, diagramas ER y relacionales diseñados en MySQL Workbench, y una aplicación de consola en Java con JDBC para operaciones CRUD. Diseñé la base de datos, implementé el esquema y desarrollé la lógica de la aplicación como parte de la evaluación final.<br><br>La app también proporciona estadísticas como ventas de boletos y seguimiento de ingresos mensuales.",
-      "tags": ["universidad", "base de datos", "mysql", "jdbc", "java", "crud", "ferrocarril"]
-    }
+    "links": [
+      {
+        "faIcon": "fa-solid fa-link",
+        "href": "https://challenge.unija.com/cg/",
+        "stringKey": "Unija ad"
+      },
+      {
+        "faIcon": "fa-solid fa-image",
+        "href": "https://ibb.co/qF0LrVK",
+        "stringKey": "project_certificate"
+      },
+      {
+        "faIcon": "fa-solid fa-code",
+        "href": "https://github.com/cbhud/Unija-Challenge",
+        "stringKey": "project_code"
+      }
+    ]
   },
-  "links": [
-        {
-      "faIcon": "fa-solid fa-link",
-      "href": "https://github.com/cbhud/UBP",
-      "stringKey": "project_website"
-    }
-  ]
-},
-{
-  "id": 4,
-  "img": null,
-  "fallbackFaIcon": "fa-solid fa-film",
-  "fallbackFaIconColor": "#9c27b0",
-  "category": "productivity",
-  "locales": {
-    "en": {
-      "title": "Letterboxd (Graph-Based Movie Network)",
-      "description": "<b>Letterboxd</b> is a graph-based social network for movie recommendations, developed as a final project for the Data Structures & Algorithms course at University \"Mediteran\".<br><br>Each user is represented as a graph node, and friendships are weighted edges based on shared liked movies. The application allows friend recommendations, friendship analysis, and manipulation of user data, all built using custom data structures like `HashSet`, `LinkedList`, and `ArrayList`.<br><br>The system was implemented in Java using an object-oriented approach, demonstrating efficient graph traversal and real-world application of core algorithms.",
-      "tags": ["university", "java", "graphs", "algorithms", "data structures", "social network", "movies"]
+  {
+    "id": 3,
+    "img": null,
+    "fallbackFaIcon": "fa-solid fa-train-subway",
+    "fallbackFaIconColor": "#3e8e41",
+    "category": "productivity",
+    "locales": {
+      "en": {
+        "title": "UBP - Railway Management System",
+        "description": "<b>UBP - Railway Management System</b> is a university final project developed for the Introduction to Databases course at the University \"Mediteran\" in Podgorica.<br><br>The system models a real-world railway business, supporting scheduling, ticketing, employee and medical exam tracking, and pricing.<br><br>It includes a fully normalized MySQL database, ER and relational diagrams designed in MySQL Workbench, and a Java console application using JDBC for full CRUD operations. I designed the database, implemented the schema, and developed the application logic as part of the final evaluation.<br><br>The app also supports statistics like ticket sales and monthly revenue reports.",
+        "tags": ["university", "database", "mysql", "jdbc", "java", "crud", "railway"]
+      },
+      "es": {
+        "description": "<b>UBP - Railway Management System</b> je završni univerzitetski projekat razvijen za kurs Uvod u baze podataka na Univerzitetu \"Mediteran\" u Podgorici.<br><br>Sistem simulira realnu željezničku firmu, podržava raspoređivanje, prodaju karata, praćenje zaposlenih i medicinskih pregleda, kao i određivanje cijena.<br><br>Uključuje potpuno normalizovanu MySQL bazu podataka, ER i relacione dijagrame izrađene u MySQL Workbench-u i Java konzolnu aplikaciju koja koristi JDBC za kompletne CRUD operacije. Dizajnirao sam bazu, implementirao šemu i razvio logiku aplikacije kao dio završne evaluacije.<br><br>Aplikacija takođe omogućava statistiku poput prodaje karata i mjesečnih prihoda.",
+        "tags": ["univerzitet", "baza podataka", "mysql", "jdbc", "java", "crud", "željeznica"]
+      }
     },
-    "es": {
-      "description": "<b>Letterboxd</b> es una red social basada en grafos para recomendaciones de películas, desarrollada como proyecto final del curso de Estructuras de Datos y Algoritmos en la Universidad \"Mediteran\".<br><br>Cada usuario se representa como un nodo en el grafo, y las amistades son aristas ponderadas según las películas en común. La aplicación permite sugerencias de amistad, análisis de relaciones y manipulación de datos del usuario, todo construido con estructuras de datos como `HashSet`, `LinkedList` y `ArrayList`.<br><br>El sistema fue implementado en Java utilizando un enfoque orientado a objetos, mostrando un uso eficiente de grafos y algoritmos prácticos.",
-      "tags": ["universidad", "java", "grafos", "algoritmos", "estructuras de datos", "red social", "películas"]
-    }
+    "links": [
+      {
+        "faIcon": "fa-solid fa-code",
+        "href": "https://github.com/cbhud/UBP",
+        "stringKey": "project_website"
+      }
+    ]
   },
-  "links": [        {
-      "faIcon": "fa-solid fa-link",
-      "href": "https://github.com/cbhud/letterboxd",
-      "stringKey": "project_website"
-    }]
-},
-{
-  "id": 5,
-  "img": null,
-  "fallbackFaIcon": "fa-solid fa-chess-rook",
-  "fallbackFaIconColor": "#c0392b",
-  "category": "social",
-  "locales": {
-    "en": {
-      "title": "CastleSiege",
-      "description": "<b>CastleSiege</b> is a Minecraft plugin inspired by the classic Mineplex game mode of the same name. Built using Java and Spigot API, the project brings fast-paced PvP siege gameplay back to modern Minecraft servers.<br><br>The plugin features custom classes, wave-based spawning, team balancing, castle defense mechanics, and configurable settings. It was designed to be lightweight and easy to integrate, and it's open-source and actively maintained on GitHub.",
-      "tags": ["minecraft", "spigot", "java", "game", "plugin", "castle", "pvp"]
+  {
+    "id": 4,
+    "img": null,
+    "fallbackFaIcon": "fa-solid fa-film",
+    "fallbackFaIconColor": "#9c27b0",
+    "category": "productivity",
+    "locales": {
+      "en": {
+        "title": "Letterboxd (Graph-Based Movie Network)",
+        "description": "<b>Letterboxd</b> is a graph-based social network for movie recommendations, developed as a final project for the Data Structures & Algorithms course at University \"Mediteran\".<br><br>Each user is represented as a graph node, and friendships are weighted edges based on shared liked movies. The application allows friend recommendations, friendship analysis, and manipulation of user data, all built using custom data structures like `HashSet`, `LinkedList`, and `ArrayList`.<br><br>The system was implemented in Java using an object-oriented approach, demonstrating efficient graph traversal and real-world application of core algorithms.",
+        "tags": ["university", "java", "graphs", "algorithms", "data structures", "social network", "movies"]
+      },
+      "es": {
+        "description": "<b>Letterboxd</b> je društvena mreža bazirana na grafovima za preporuke filmova, razvijena kao završni projekat za kurs Strukture podataka i algoritmi na Univerzitetu \"Mediteran\".<br><br>Svaki korisnik je predstavljen kao čvor grafa, a prijateljstva su ivice sa težinama zasnovane na zajednički omiljenim filmovima. Aplikacija omogućava preporuke prijatelja, analizu mreže i manipulaciju korisničkim podacima, koristeći prilagođene strukture podataka poput `HashSet`, `LinkedList` i `ArrayList`.<br><br>Sistem je implementiran u Javi koristeći objektno-orijentisani pristup i demonstrira efikasno pretraživanje grafova i primjenu osnovnih algoritama.",
+        "tags": ["univerzitet", "java", "grafovi", "algoritmi", "strukture podataka", "društvena mreža", "filmovi"]
+      }
     },
-    "es": {
-      "description": "<b>CastleSiege</b> es un plugin de Minecraft inspirado en el clásico modo de juego de Mineplex. Desarrollado en Java con la API de Spigot, revive la jugabilidad de asedio PvP en servidores modernos.<br><br>El plugin incluye clases personalizadas, oleadas de enemigos, balanceo de equipos, mecánicas de defensa de castillo y opciones totalmente configurables. Es ligero, fácil de integrar y de código abierto.",
-      "tags": ["minecraft", "spigot", "java", "juego", "plugin", "castillo", "pvp"]
-    }
+    "links": [
+      {
+        "faIcon": "fa-solid fa-link",
+        "href": "https://github.com/cbhud/letterboxd",
+        "stringKey": "project_website"
+      }
+    ]
   },
-  "links": [
-    {
-      "faIcon": "fa-brands fa-github",
-      "href": "https://github.com/cbhud/CastleSiege",
-      "stringKey": "view_on_github"
-    }
-  ]
-},
-{
-  "id": 6,
-  "img": null,
-  "fallbackFaIcon": "fa-solid fa-leaf",
-  "fallbackFaIconColor": "#2ecc71",
-  "category": "social",
-  "locales": {
-    "en": {
-      "title": "Organic Health Store",
-      "description": "<b>Organic Health Store</b> is a full-stack university final project — a complete PHP-based e-commerce platform for organic products. The system includes a secure user authentication system, admin dashboard, dynamic product management, and a full shopping cart and checkout flow.<br><br>Built with security and performance in mind, it supports AJAX-powered cart interactions, real-time product filtering, secure session handling, and downloadable CSV reporting for admins. The relational database includes well-structured tables for users, orders, products, and categories.<br><br>The project demonstrates best practices in PHP development and showcases a scalable and secure store suitable for real-world deployment.",
-      "tags": ["university", "php", "e-commerce", "mysql", "ajax", "admin panel", "security"]
+  {
+    "id": 5,
+    "img": null,
+    "fallbackFaIcon": "fa-solid fa-chess-rook",
+    "fallbackFaIconColor": "#c0392b",
+    "category": "social",
+    "locales": {
+      "en": {
+        "title": "CastleSiege",
+        "description": "<b>CastleSiege</b> is a Minecraft plugin inspired by the classic Mineplex game mode of the same name. Built using Java and Spigot API, the project brings fast-paced PvP siege gameplay back to modern Minecraft servers.<br><br>The plugin features custom classes, wave-based spawning, team balancing, castle defense mechanics, and configurable settings. It was designed to be lightweight and easy to integrate, and it's open-source and actively maintained on GitHub.",
+        "tags": ["minecraft", "spigot", "java", "game", "plugin", "castle", "pvp"]
+      },
+      "es": {
+        "description": "<b>CastleSiege</b> je Minecraft dodatak inspirisan klasičnim Mineplex režimom igre istog imena. Razvijen u Javi koristeći Spigot API, vraća brzu PvP opsadnu igru na moderne Minecraft servere.<br><br>Plugin uključuje prilagođene klase, talasne protivnike, balansiranje timova, mehanike odbrane zamka i potpuno podesiva podešavanja. Lagan je, jednostavan za integraciju i otvorenog je koda.",
+        "tags": ["minecraft", "spigot", "java", "igra", "plugin", "zamak", "pvp"]
+      }
     },
-    "es": {
-      "description": "<b>Organic Health Store</b> es un proyecto final universitario de pila completa — una plataforma de comercio electrónico desarrollada con PHP para productos orgánicos. El sistema incluye autenticación de usuarios segura, panel de administración, gestión dinámica de productos y un carrito de compras completo con flujo de pago.<br><br>Con enfoque en seguridad y rendimiento, admite interacciones con el carrito vía AJAX, filtrado en tiempo real, manejo seguro de sesiones y generación de informes CSV para los administradores. La base de datos relacional incluye tablas estructuradas para usuarios, pedidos, productos y categorías.<br><br>El proyecto demuestra buenas prácticas en desarrollo PHP y ofrece una tienda segura y escalable para implementación real.",
-      "tags": ["universidad", "php", "comercio electrónico", "mysql", "ajax", "panel admin", "seguridad"]
-    }
+    "links": [
+      {
+        "faIcon": "fa-brands fa-github",
+        "href": "https://github.com/cbhud/CastleSiege",
+        "stringKey": "view_on_github"
+      }
+    ]
   },
-  "links": [
-    {
-      "faIcon": "fa-solid fa-link",
-      "href": "http://organichealth.zya.me/index.php",
-      "stringKey": "live_demo"
-    }
-  ]
-},
-{
-  "id": 7,
-  "img": null,
-  "fallbackFaIcon": "fa-solid fa-clapperboard",
-  "fallbackFaIconColor": "#34495e",
-  "category": "productivity",
-  "locales": {
-    "en": {
-      "title": "FilmTrack (Track watched movies)",
-      "description": "<b>filmTrack</b> is a backend-focused university project built using the Quarkus framework. The app allows users to track watched movies, authenticate, write reviews, and store personal film data. It integrates with the <a href='https://www.omdbapi.com/' target='_blank'>OMDb API</a> for fetching movie metadata, and exposes RESTful APIs for all core functionality.<br><br>The backend includes a relational database for managing users, movies, and reviews. As part of expanding the project, I began developing the frontend using Vue.js — my first experience with frontend development.<br><br>This project demonstrates full-stack development with modern Java and JavaScript technologies, while learning API integration, security, and UI design fundamentals.",
-      "tags": ["university", "quarkus", "java", "vue", "rest api", "movies", "backend", "frontend"]
+  {
+    "id": 6,
+    "img": null,
+    "fallbackFaIcon": "fa-solid fa-leaf",
+    "fallbackFaIconColor": "#2ecc71",
+    "category": "social",
+    "locales": {
+      "en": {
+        "title": "Organic Health Store",
+        "description": "<b>Organic Health Store</b> is a full-stack university final project — a complete PHP-based e-commerce platform for organic products. The system includes a secure user authentication system, admin dashboard, dynamic product management, and a full shopping cart and checkout flow.<br><br>Built with security and performance in mind, it supports AJAX-powered cart interactions, real-time product filtering, secure session handling, and downloadable CSV reporting for admins. The relational database includes well-structured tables for users, orders, products, and categories.<br><br>The project demonstrates best practices in PHP development and showcases a scalable and secure store suitable for real-world deployment.",
+        "tags": ["university", "php", "e-commerce", "mysql", "ajax", "admin panel", "security"]
+      },
+      "es": {
+        "description": "<b>Organic Health Store</b> je završni univerzitetski projekat sa kompletnom PHP e-commerce platformom za organske proizvode. Sistem uključuje sigurnu autentikaciju korisnika, administratorski panel, dinamičko upravljanje proizvodima i kompletan tok kupovine.<br><br>Fokusiran na sigurnost i performanse, podržava AJAX interakcije, filtriranje proizvoda u realnom vremenu, sigurnu sesiju i eksport CSV izvještaja za administratore. Relaciona baza sadrži strukturirane tabele za korisnike, porudžbine, proizvode i kategorije.<br><br>Projekat demonstrira najbolje prakse PHP razvoja i prikazuje skalabilnu i sigurnu prodavnicu spremnu za stvarnu primjenu.",
+        "tags": ["univerzitet", "php", "e-commerce", "mysql", "ajax", "admin panel", "sigurnost"]
+      }
     },
-    "es": {
-      "description": "<b>filmTrack</b> es un proyecto universitario centrado en el backend y desarrollado con el framework Quarkus. La aplicación permite a los usuarios seguir películas vistas, autenticarse, escribir reseñas y guardar datos de películas. Se integra con la <a href='https://www.omdbapi.com/' target='_blank'>OMDb API</a> para obtener información de películas y ofrece APIs REST para toda la funcionalidad.<br><br>El backend utiliza una base de datos relacional para gestionar usuarios, películas y reseñas. Como parte de la expansión del proyecto, comencé a desarrollar el frontend con Vue.js — mi primer contacto con desarrollo de interfaces.<br><br>Este proyecto demuestra habilidades full-stack con tecnologías modernas de Java y JavaScript, integración de APIs y fundamentos de seguridad y diseño UI.",
-      "tags": ["universidad", "quarkus", "java", "vue", "api rest", "películas", "backend", "frontend"]
-    }
+    "links": [
+      {
+        "faIcon": "fa-solid fa-globe",
+        "href": "http://organichealth.zya.me/index.php",
+        "stringKey": "live_demo"
+      }
+    ]
   },
-  "links": [
-    {
-      "faIcon": "fa-brands fa-github",
-      "href": "https://github.com/cbhud/filmTrack",
-      "stringKey": "view_backend_on_github"
+  {
+    "id": 7,
+    "img": null,
+    "fallbackFaIcon": "fa-solid fa-clapperboard",
+    "fallbackFaIconColor": "#34495e",
+    "category": "productivity",
+    "locales": {
+      "en": {
+        "title": "FilmTrack (Track watched movies)",
+        "description": "<b>filmTrack</b> is a backend-focused university project built using the Quarkus framework. The app allows users to track watched movies, authenticate, write reviews, and store personal film data. It integrates with the <a href='https://www.omdbapi.com/' target='_blank'>OMDb API</a> for fetching movie metadata, and exposes RESTful APIs for all core functionality.<br><br>The backend includes a relational database for managing users, movies, and reviews. As part of expanding the project, I began developing the frontend using Vue.js — my first experience with frontend development.<br><br>This project demonstrates full-stack development with modern Java and JavaScript technologies, while learning API integration, security, and UI design fundamentals.",
+        "tags": ["university", "quarkus", "java", "vue", "rest api", "movies", "backend", "frontend"]
+      },
+      "es": {
+        "description": "<b>filmTrack</b> je univerzitetski projekat fokusiran na backend, razvijen pomoću Quarkus okvira. Aplikacija omogućava korisnicima da prate gledane filmove, autentifikuju se, pišu recenzije i čuvaju lične podatke o filmovima. Integrisana je sa <a href='https://www.omdbapi.com/' target='_blank'>OMDb API</a> za preuzimanje filmskih metapodataka i pruža RESTful API-je za sve ključne funkcije.<br><br>Backend koristi relacionu bazu za upravljanje korisnicima, filmovima i recenzijama. Kao dio širenja projekta, započeo sam frontend u Vue.js-u — moje prvo iskustvo sa frontend razvojem.<br><br>Projekat demonstrira full-stack razvoj uz savremene Java i JavaScript tehnologije, integraciju API-ja, sigurnost i UI dizajn.",
+        "tags": ["univerzitet", "quarkus", "java", "vue", "rest api", "filmovi", "backend", "frontend"]
+      }
     },
-        {
-      "faIcon": "fa-brands fa-github",
-      "href": "https://github.com/cbhud/filmTrack-frontend",
-      "stringKey": "view_backend_on_github"
-    }
-  ]
-}
-
-
-
-
-
-
-            ]
+    "links": [
+      {
+        "faIcon": "fa-brands fa-github",
+        "href": "https://github.com/cbhud/filmTrack",
+        "stringKey": "view_backend_on_github"
+      },
+      {
+        "faIcon": "fa-brands fa-github",
+        "href": "https://github.com/cbhud/filmTrack-frontend",
+        "stringKey": "view_backend_on_github"
+      }
+    ]
+  }
+]
         }
     ]
 }

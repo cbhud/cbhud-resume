@@ -16,7 +16,6 @@
                     "img": "images/places/logo-harvard.png",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
-
                     "locales": {
                         "en": {
                             "title": "Bachelor's in Software Engineering",
@@ -26,25 +25,23 @@
                             "institution": "Mediterranean University",
                             "tags": ["Java", "HTML","CSS", "JS", "AJAX", "Data Structures & Algorithms", "Relational Databases", "PHP", "AJAX", "Java Quarkus BackEnd", "Git", "Computer Networks", "Operating Systems", "System Administration"]
                         },
-
                         "es": {
-                            "title": "Licenciatura en Diseño Gráfico con Énfasis en UX",
-                            "description": "Graduado con una sólida formación en diseño gráfico con especialización en diseño de experiencia de usuario. Adquirió experiencia en narración visual, diseño de interfaz de usuario y pensamiento de diseño colaborativo.",
-                            "province": "Massachusetts",
-                            "country": "EE. UU",
-                            "institution": "Universidad de Harvard",
-                            "tags": []
+                            "title": "Osnovne studije Softverskog Inženjerstva",
+                            "description": "Studiram softversko inženjerstvo sa jakim osnovama u razvoju i dizajnu softvera, sa fokusom na backend tehnologije.",
+                            "province": "Podgorica",
+                            "country": "ME",
+                            "institution": "Univerzitet Mediteran",
+                            "tags": ["Java", "HTML","CSS", "JS", "AJAX", "Strukture podataka i algoritmi", "Relacione baze podataka", "PHP", "AJAX", "Java Quarkus BackEnd", "Git", "Računarske mreže", "Operativni sistemi", "Administracija sistema"]
                         }
                     }
                 },
-                    {
+                {
                     "id": 2,
                     "dateStart": {"year": 2024, "month": 2},
                     "dateEnd": {"year": 2024, "month": 5},
                     "img": "images/places/harvard2.jpg",
                     "fallbackFaIcon": null,
                     "fallbackFaIconColor": null,
-
                     "locales": {
                         "en": {
                             "title": "Introduction to the Web Development",
@@ -54,14 +51,13 @@
                             "institution": "Developers Lab",
                             "tags": ["HTML", "CSS", "JavaScript", "Git"]
                         },
-
                         "es": {
-                            "title": "Licenciatura en Diseño Gráfico con Énfasis en UX",
-                            "description": "Graduado con una sólida formación en diseño gráfico con especialización en diseño de experiencia de usuario. Adquirió experiencia en narración visual, diseño de interfaz de usuario y pensamiento de diseño colaborativo.",
-                            "province": "Massachusetts",
-                            "country": "EE. UU",
-                            "institution": "Universidad de Harvard",
-                            "tags": []
+                            "title": "Uvod u Web Programiranje",
+                            "description": "Završio tromjesečni uvodni kurs web programiranja koji pokriva osnove web tehnologija. Stečeno praktično iskustvo u izradi responzivnih web stranica, stilizaciji pomoću CSS-a, dodavanju interaktivnosti sa JavaScript-om i korišćenju Git-a za kontrolu verzija.",
+                            "province": "Podgorica",
+                            "country": "ME",
+                            "institution": "Developers Lab",
+                            "tags": ["HTML", "CSS", "JavaScript", "Git"]
                         }
                     }
                 }

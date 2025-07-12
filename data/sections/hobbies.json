@@ -1,165 +1,204 @@
 {
-    "articles": [
-        {
-            "id": 1,
-            "component": "ArticleSkills",
-            "locales": {
-                "en": {"title": null},
-                "es": {"title": null}
-            },
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc",
-                "max_items_per_line": 2,
-                "transparent_item_icon_background": false,
-                "small_icons": true,
-                "chart": "pie"
-            },
-  "items": [
+  "articles": [
     {
       "id": 1,
-      "dateStart": null,
-      "img": null,
-      "fallbackFaIcon": "fa-solid fa-gamepad",
-      "fallbackFaIconColor": "#FF6384",
-      "percentage": 35,
+      "component": "ArticleSkills",
       "locales": {
-        "en": {
-          "title": "Playing Video Games",
-          "description": "I spend most of my gaming time playing Counter-Strike and similar competitive games.",
-          "level": null
+        "en": { "title": null },
+        "es": { "title": null }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": false,
+        "small_icons": true,
+        "chart": "pie"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-gamepad",
+          "fallbackFaIconColor": "#FF6384",
+          "percentage": 35,
+          "locales": {
+            "en": {
+              "title": "Playing Video Games",
+              "description": "I spend most of my gaming time playing Counter-Strike and similar competitive games.",
+              "level": null
+            },
+            "es": {
+              "title": "Igranje video igara",
+              "description": "Većinu vremena provodim igrajući Counter-Strike i slične takmičarske igre.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-tasks",
+          "fallbackFaIconColor": "#36A2EB",
+          "percentage": 25,
+          "locales": {
+            "en": {
+              "title": "Personal Projects",
+              "description": "I enjoy turning development ideas into real projects and continuously experimenting with new tech.",
+              "level": null
+            },
+            "es": {
+              "title": "Lični projekti",
+              "description": "Volim da pretvaram ideje u stvarne projekte i stalno eksperimentišem s novim tehnologijama.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-basketball",
+          "fallbackFaIconColor": "#FFCD56",
+          "percentage": 25,
+          "locales": {
+            "en": {
+              "title": "Watching Basketball",
+              "description": "Partizan fan :)",
+              "level": null
+            },
+            "es": {
+              "title": "Gledanje košarke",
+              "description": "Navijač Partizana :)",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-microchip",
+          "fallbackFaIconColor": "#C5B0FF",
+          "percentage": 15,
+          "locales": {
+            "en": {
+              "title": "Embedded Devices",
+              "description": "Learning and experimenting with Arduino, IoT, and low-level programming to explore the world of embedded systems.",
+              "level": null
+            },
+            "es": {
+              "title": "Ugradni uređaji",
+              "description": "Učim i eksperimentišem sa Arduinom, IoT-om i niskonivou programiranjem kako bih istražio svijet ugradnih sistema.",
+              "level": null
+            }
+          }
         }
-      }
+      ]
     },
     {
       "id": 2,
-      "dateStart": null,
-      "img": null,
-      "fallbackFaIcon": "fa-solid fa-tasks",
-      "fallbackFaIconColor": "#36A2EB",
-      "percentage": 25,
+      "component": "ArticleSkills",
       "locales": {
         "en": {
-          "title": "Personal Projects",
-          "description": "I enjoy turning development ideas into real projects and continuously experimenting with new tech.",
-          "level": null
+          "title": "Side pursuits"
+        },
+        "es": {
+          "title": "Sporedne aktivnosti"
         }
-      }
-    },
-    {
-      "id": 3,
-      "dateStart": null,
-      "img": null,
-      "fallbackFaIcon": "fa-solid fa-basketball",
-      "fallbackFaIconColor": "#FFCD56",
-      "percentage": 25,
-      "locales": {
-        "en": {
-          "title": "Watching Basketball",
-          "description": "Partizan fan who never misses a game :)",
-          "level": null
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 1,
+        "transparent_item_icon_background": false,
+        "small_icons": true,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-brain",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "AI & Machine Learning",
+              "description": "Exploring artificial intelligence, machine learning, and data science to build a strong foundation in future-focused technologies.",
+              "level": null
+            },
+            "es": {
+              "title": "AI i mašinsko učenje",
+              "description": "Istražujem vještačku inteligenciju, mašinsko učenje i nauku o podacima kako bih izgradio čvrstu osnovu u tehnologijama budućnosti.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-vuejs",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Frontend Frameworks",
+              "description": "Diving into modern JavaScript frameworks like Vue, React, and Angular to create dynamic, responsive web applications.",
+              "level": null
+            },
+            "es": {
+              "title": "Frontend okviri",
+              "description": "Proučavam moderne JavaScript okvire poput Vue, React i Angular za kreiranje dinamičnih, responzivnih web aplikacija.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-screwdriver-wrench",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Building Computers",
+              "description": "Enjoy building custom PCs tailored to individual specs, combining performance, reliability, and user preference.",
+              "level": null
+            },
+            "es": {
+              "title": "Sklapanje računara",
+              "description": "Volim da sastavljam računare po mjeri, kombinujući performanse, pouzdanost i lične preferencije.",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": null,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-diagram-project",
+          "fallbackFaIconColor": null,
+          "percentage": null,
+          "locales": {
+            "en": {
+              "title": "Program Design Patterns",
+              "description": "Learning and applying software design patterns to improve backend structure, maintainability, and scalability.",
+              "level": null
+            },
+            "es": {
+              "title": "Obrasci dizajna softvera",
+              "description": "Učim i primjenjujem obrasce dizajna softvera kako bih poboljšao strukturu pozadinskog sistema, održavanje i skalabilnost.",
+              "level": null
+            }
+          }
         }
-      }
-    },
-    {
-      "id": 4,
-      "dateStart": null,
-      "img": null,
-      "fallbackFaIcon": "fa-solid fa-microchip",
-      "fallbackFaIconColor": "#C5B0FF",
-      "percentage": 15,
-      "locales": {
-        "en": {
-          "title": "Embedded Devices",
-          "description": "Learning and experimenting with Arduino, IoT, and low-level programming to explore the world of embedded systems.",
-          "level": null
-        }
-      }
+      ]
     }
   ]
-        },
-
-        {
-            "id": 2,
-            "component": "ArticleSkills",
-            "locales": {
-                "en": {
-                    "title": "Side pursuits"
-                },
-                "es": {
-                    "title": "Exploraciones"
-                }
-            },
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc",
-                "max_items_per_line": 1,
-                "transparent_item_icon_background": false,
-                "small_icons": true,
-                "chart": null
-            },
-            "items": [
-    {
-        "id": 1,
-        "dateStart": null,
-        "img": null,
-        "fallbackFaIcon": "fa-solid fa-brain",
-        "fallbackFaIconColor": null,
-        "percentage": null,
-        "locales": {
-            "en": {
-                "title": "AI & Machine Learning",
-                "description": "Exploring artificial intelligence, machine learning, and data science to build a strong foundation in future-focused technologies.",
-                "level": null
-            }
-        }
-    },
-    {
-        "id": 2,
-        "dateStart": null,
-        "img": null,
-        "fallbackFaIcon": "fa-brands fa-vuejs",
-        "fallbackFaIconColor": null,
-        "percentage": null,
-        "locales": {
-            "en": {
-                "title": "Frontend Frameworks",
-                "description": "Diving into modern JavaScript frameworks like Vue, React, and Angular to create dynamic, responsive web applications.",
-                "level": null
-            }
-        }
-    },
-    {
-        "id": 3,
-        "dateStart": null,
-        "img": null,
-        "fallbackFaIcon": "fa-solid fa-screwdriver-wrench",
-        "fallbackFaIconColor": null,
-        "percentage": null,
-        "locales": {
-            "en": {
-                "title": "Building Computers",
-                "description": "Enjoy building custom PCs tailored to individual specs, combining performance, reliability, and user preference.",
-                "level": null
-            }
-        }
-    },
-    {
-        "id": 4,
-        "dateStart": null,
-        "img": null,
-        "fallbackFaIcon": "fa-solid fa-diagram-project",
-        "fallbackFaIconColor": null,
-        "percentage": null,
-        "locales": {
-            "en": {
-                "title": "Program Design Patterns",
-                "description": "Learning and applying software design patterns to improve backend structure, maintainability, and scalability.",
-                "level": null
-            }
-        }
-    }
-]
-        }
-    ]
 }

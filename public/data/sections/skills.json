@@ -23,12 +23,12 @@
           "locales": {
             "en": {
               "title": "Backend Development",
-              "description": "Experienced in building robust backend systems using Java, PHP, and frameworks like Quarkus, including API design, database integration, and efficient data management.",
+              "description": "Experienced in building backend systems using Java, PHP, and frameworks like Spring, Quarkus.",
               "level": null
             },
             "es": {
               "title": "Razvoj Pozadinskih Sistema",
-              "description": "Iskusan u izradi robusnih backend sistema koristeći Java, PHP i okvire poput Quarkus-a, uključujući dizajn API-ja, integraciju baza podataka i efikasno upravljanje podacima.",
+              "description": "Iskusan u izradi backend sistema koristeći Java, PHP i okvire poput Spring-a, Quarkus-a.",
               "level": null
             }
           }
@@ -43,12 +43,12 @@
           "locales": {
             "en": {
               "title": "Web Application Development",
-              "description": "Proficient in creating dynamic and responsive web applications using PHP, JavaScript, HTML, CSS, and Vue.js, ensuring smooth performance across devices.",
+              "description": "Proficient in creating dynamic and responsive web applications, ensuring smooth performance across devices.",
               "level": null
             },
             "es": {
               "title": "Razvoj Web Aplikacija",
-              "description": "Vješt u kreiranju dinamičnih i responzivnih web aplikacija koristeći PHP, JavaScript, HTML, CSS i Vue.js, uz obezbjeđenje besprekornog rada na svim uređajima.",
+              "description": "Vješt u kreiranju dinamičnih i responzivnih web aplikacija, uz obezbjeđenje besprekornog rada na svim uređajima.",
               "level": null
             }
           }
@@ -63,12 +63,12 @@
           "locales": {
             "en": {
               "title": "Responsive Layouts",
-              "description": "Capable of building user-friendly interfaces and maintaining consistent user experiences with modern frontend technologies.",
+              "description": "Capable of building user-friendly interfaces and maintaining consistent user experiences.",
               "level": null
             },
             "es": {
               "title": "Responzivni Dizajn",
-              "description": "Sposoban za kreiranje korisnički prijatnih interfejsa uz dosljedno korisničko iskustvo koristeći moderne frontend tehnologije.",
+              "description": "Sposoban za kreiranje korisnički prijatnih interfejsa uz dosljedno korisničko iskustvo.",
               "level": null
             }
           }
@@ -103,12 +103,12 @@
           "locales": {
             "en": {
               "title": "Database Design",
-              "description": "Adept at designing, optimizing, and integrating relational databases such as MySQL or Postgres for seamless application performance.",
+              "description": "Experienced in designing, optimizing, and integrating relational databases such as MySQL or Postgres for seamless application performance.",
               "level": null
             },
             "es": {
               "title": "Dizajn Baza Podataka",
-              "description": "Vješt u dizajniranju, optimizaciji i integraciji relacionih baza podataka kao što su MySQL i Postgres radi nesmetanog rada aplikacija.",
+              "description": "Iskusan u dizajniranju, optimizaciji i integraciji relacionih baza podataka kao što su MySQL i Postgres radi nesmetanog rada aplikacija.",
               "level": null
             }
           }
@@ -139,8 +139,12 @@
       "id": 2,
       "component": "ArticleSkills",
       "locales": {
-        "en": { "title": "Frontend Stack" },
-        "es": { "title": "Frontend Tehnologije" }
+        "en": {
+          "title": "Frontend Stack"
+        },
+        "es": {
+          "title": "Frontend Tehnologije"
+        }
       },
       "settings": {
         "order_items_by": "percentage",
@@ -153,7 +157,10 @@
       "items": [
         {
           "id": 1,
-          "dateStart": { "year": 2019, "month": 5 },
+          "dateStart": {
+            "year": 2019,
+            "month": 5
+          },
           "img": null,
           "fallbackFaIcon": "fa-brands fa-html5",
           "fallbackFaIconColor": null,
@@ -171,7 +178,10 @@
         },
         {
           "id": 2,
-          "dateStart": { "year": 2019, "month": 5 },
+          "dateStart": {
+            "year": 2019,
+            "month": 5
+          },
           "img": null,
           "fallbackFaIcon": "fa-brands fa-css3-alt",
           "fallbackFaIconColor": null,
@@ -189,11 +199,14 @@
         },
         {
           "id": 3,
-          "dateStart": { "year": 2023, "month": 5 },
+          "dateStart": {
+            "year": 2023,
+            "month": 5
+          },
           "img": null,
           "fallbackFaIcon": "fa-brands fa-js-square",
           "fallbackFaIconColor": null,
-          "percentage": 75,
+          "percentage": 65,
           "locales": {
             "en": {
               "title": "Javascript",
@@ -207,11 +220,14 @@
         },
         {
           "id": 4,
-          "dateStart": { "year": 2025, "month": 6 },
+          "dateStart": {
+            "year": 2025,
+            "month": 6
+          },
           "img": null,
           "fallbackFaIcon": "fa-brands fa-vuejs",
           "fallbackFaIconColor": null,
-          "percentage": 10,
+          "percentage": 15,
           "locales": {
             "en": {
               "title": "Vue 3",
@@ -229,8 +245,12 @@
       "id": 3,
       "component": "ArticleSkills",
       "locales": {
-        "en": { "title": "Backend Stack" },
-        "es": { "title": "Backend Tehnologije" }
+        "en": {
+          "title": "Backend Stack"
+        },
+        "es": {
+          "title": "Backend Tehnologije"
+        }
       },
       "settings": {
         "order_items_by": "id",
@@ -243,11 +263,14 @@
       "items": [
         {
           "id": 4,
-          "dateStart": { "year": 2024, "month": 8 },
+          "dateStart": {
+            "year": 2024,
+            "month": 1
+          },
           "img": null,
           "fallbackFaIcon": "fa-solid fa-database",
           "fallbackFaIconColor": null,
-          "percentage": 85,
+          "percentage": 100,
           "locales": {
             "en": {
               "title": "Relational Databases",
@@ -261,7 +284,10 @@
         },
         {
           "id": 2,
-          "dateStart": { "year": 2025, "month": 0 },
+          "dateStart": {
+            "year": 2025,
+            "month": 0
+          },
           "img": null,
           "fallbackFaIcon": "fa-brands fa-php",
           "fallbackFaIconColor": null,
@@ -279,7 +305,10 @@
         },
         {
           "id": 1,
-          "dateStart": { "year": 2019, "month": 2 },
+          "dateStart": {
+            "year": 2019,
+            "month": 2
+          },
           "img": null,
           "fallbackFaIcon": "fa-brands fa-java",
           "fallbackFaIconColor": null,
@@ -297,19 +326,22 @@
         },
         {
           "id": 3,
-          "dateStart": { "year": 2025, "month": 1 },
+          "dateStart": {
+            "year": 2025,
+            "month": 1
+          },
           "img": null,
           "fallbackFaIcon": "fa-solid fa-star-of-life",
           "fallbackFaIconColor": null,
           "percentage": 40,
           "locales": {
             "en": {
-              "title": "Quarkus",
-              "description": ""
+              "title": "Backend Frameworks",
+              "description": "Experienced in building and deploying backend applications using various frameworks."
             },
             "es": {
-              "title": "Quarkus",
-              "description": ""
+              "title": "Backend Frameworks",
+              "description": "Iskusan u razvoju i implementaciji backend aplikacija koristeći razne framework-e."
             }
           }
         }
@@ -319,8 +351,12 @@
       "id": 4,
       "component": "ArticleSkills",
       "locales": {
-        "en": { "title": "Languages" },
-        "es": { "title": "Jezici" }
+        "en": {
+          "title": "Languages"
+        },
+        "es": {
+          "title": "Jezici"
+        }
       },
       "settings": {
         "order_items_by": "id",

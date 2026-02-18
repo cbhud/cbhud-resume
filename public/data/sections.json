@@ -8,20 +8,19 @@
             "type": "centered",
             "locales": {
                 "en": {
-                    "title": "Welcome to *CBHud's Dev Services!*",
-                    "title_short": "*CBHud's Dev Services!*",
+                    "title": "Hello, *I'm Amer.*",
+                    "title_short": "Hello, *I'm Amer.*",
                     "description": null,
                     "nav_label": "About"
                 },
                 "es": {
-                    "title": "*CBHud's Dev Services!*",
-                    "title_short": "*CBHud's Dev Services!*",
+                    "title": "Zdravo, *Ja sam Amer.*",
+                    "title_short": "Zdravo, *Ja sam Amer.*",
                     "description": null,
                     "nav_label": "O meni"
                 }
             }
         },
-
         {
             "id": "education",
             "categoryId": "background",
@@ -43,7 +42,6 @@
                 }
             }
         },
-
         {
             "id": "skills",
             "categoryId": "showcase",
@@ -65,7 +63,6 @@
                 }
             }
         },
-
         {
             "id": "experience",
             "categoryId": "background",
@@ -87,7 +84,6 @@
                 }
             }
         },
-
         {
             "id": "portfolio",
             "categoryId": "showcase",
@@ -98,18 +94,17 @@
                 "en": {
                     "title": "My *Portfolio*",
                     "title_short": null,
-                    "description": "Explore a selection of my recent projects.",
+                    "description": "Explore a selection of my recent projects. Not everything may be listed here, so feel free to check out my GitHub for more!",
                     "nav_label": "Portfolio"
                 },
                 "es": {
                     "title": "Moj *Portfolio*",
                     "title_short": null,
-                    "description": "Pregled mojih projekata.",
+                    "description": "Pregled mojih projekata. Nije sve ovdje, pa slobodno pogledajte moj GitHub!",
                     "nav_label": "Portfolio"
                 }
             }
         },
-
         {
             "id": "achievements",
             "categoryId": "showcase",
@@ -131,7 +126,6 @@
                 }
             }
         },
-
         {
             "id": "hobbies",
             "categoryId": "more",
@@ -153,7 +147,6 @@
                 }
             }
         },
-
         {
             "id": "contact",
             "categoryId": "more",

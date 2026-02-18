@@ -11,7 +11,7 @@
                 },
                 "es": {
                     "contact_thank_you": "*Hvala* na kontaktu!",
-                    "contact_thank_you_description": "Vaša poruka je primljena i uskoro ću vam se javiti. Cijenim vaše vrijeme i radujem se budućoj komunikaciji!",
+                    "contact_thank_you_description": "Vaša poruka je primljena i uskoro ću vam se javiti. Cijenim vaše vrijeme i radujem se budućoj saradnji!",
                     "contact_thank_you_reply": "Odgovor će biti poslat na vašu email adresu *{email}*."
                 }
             },
@@ -24,7 +24,6 @@
             },
             "items": null
         },
-
         {
             "id": 2,
             "component": "ArticleContactOptions",
@@ -35,13 +34,17 @@
                 },
                 "es": {
                     "title": "Ili...",
-                    "description": "Ako više volite, možete me kontaktirati putem sljedećih opcija:"
+                    "description": "Ukoliko vam je lakše, možete me kontaktirati putem sljedećih opcija:"
                 }
             },
             "settings": {
                 "order_items_by": "id",
                 "order_items_sort": "asc",
-                "contact_ids": ["instagram", "phone", "email", "linkedin", "facebook", "github", "discord"]
+                "contact_ids": [
+                    "email",
+                    "linkedin",
+                    "github"
+                ]
             },
             "items": null
         }

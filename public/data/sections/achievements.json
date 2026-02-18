@@ -4,8 +4,12 @@
             "id": 1,
             "component": "ArticleThread",
             "locales": {
-                "en": { "title": "Awards" },
-                "es": { "title": "Nagrade" }
+                "en": {
+                    "title": "Awards"
+                },
+                "es": {
+                    "title": "Nagrade"
+                }
             },
             "settings": {
                 "order_items_by": "id",
@@ -14,7 +18,10 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": { "year": 2023, "month": 10 },
+                    "dateStart": {
+                        "year": 2023,
+                        "month": 10
+                    },
                     "fallbackFaIcon": "fa-solid fa-building",
                     "fallbackFaIconColor": null,
                     "locales": {
@@ -38,13 +45,16 @@
                 }
             ]
         },
-
         {
             "id": 2,
             "component": "ArticleThread",
             "locales": {
-                "en": { "title": "Certifications" },
-                "es": { "title": "Sertifikati" }
+                "en": {
+                    "title": "Certifications"
+                },
+                "es": {
+                    "title": "Sertifikati"
+                }
             },
             "settings": {
                 "order_items_by": "id",
@@ -53,7 +63,10 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": { "year": 2024, "month": 2 },
+                    "dateStart": {
+                        "year": 2024,
+                        "month": 2
+                    },
                     "fallbackFaIcon": "fa-solid fa-computer",
                     "fallbackFaIconColor": null,
                     "locales": {
@@ -69,33 +82,18 @@
                         }
                     },
                     "links": [
-                        { "href": "https://comptia.org", "stringKey": "view_certification" }
+                        {
+                            "href": "https://comptia.org",
+                            "stringKey": "view_certification"
+                        }
                     ]
                 },
                 {
                     "id": 2,
-                    "dateStart": { "year": 2024, "month": 2 },
-                    "fallbackFaIcon": "fa-solid fa-network-wired",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "CompTIA Network+",
-                            "description": "Achieved CompTIA Network+ certification, validating skills in networking concepts, infrastructure, operations, security, and troubleshooting.",
-                            "institution": "CompTIA"
-                        },
-                        "es": {
-                            "title": "CompTIA Network+",
-                            "description": "Stekao CompTIA Network+ sertifikat, koji potvrđuje znanje iz mrežnih koncepata, infrastrukture, operacija, bezbjednosti i rješavanja problema.",
-                            "institution": "CompTIA"
-                        }
+                    "dateStart": {
+                        "year": 2022,
+                        "month": 1
                     },
-                    "links": [
-                        { "href": "https://comptia.org", "stringKey": "view_certification" }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "dateStart": { "year": 2022, "month": 1 },
                     "fallbackFaIcon": "fa-solid fa-briefcase-medical",
                     "fallbackFaIconColor": null,
                     "locales": {
@@ -107,11 +105,14 @@
                         "es": {
                             "title": "Instruktor prve pomoći - Crveni krst",
                             "description": "Održavao časove prve pomoći za različite učesnike, uključujući volontere, studente i zaposlene iz raznih kompanija. Pripremao i redovno sprovodio nastavni program po rasporedu.",
-                            "institution": "Crveni krst Crne Gore"
+                            "institution": "Crveni krst Rožaje"
                         }
                     },
                     "links": [
-                        { "href": "", "stringKey": "view_certification" }
+                        {
+                            "href": "",
+                            "stringKey": "view_certification"
+                        }
                     ]
                 }
             ]

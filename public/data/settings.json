@@ -1,7 +1,6 @@
 {
-    "preloaderEnabled": true,
+    "preloaderEnabled": false,
     "navToggleEnabled": true,
-
     "supportedLanguages": [
         {
             "name": "English",
@@ -9,7 +8,6 @@
             "flagUrl": "images/flags/en-uk.png",
             "default": true
         },
-
         {
             "name": "Montenegrin",
             "id": "es",

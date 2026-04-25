@@ -158,7 +158,7 @@
         {
           "id": 1,
           "dateStart": {
-            "year": 2019,
+            "year": 2022,
             "month": 5
           },
           "img": null,
@@ -172,14 +172,14 @@
             },
             "es": {
               "title": "HTML 5",
-              "description": "Iskusan u HTML5 elementima i funkcionalnostima."
+              "description": "Iskusan u HTML-u i njegovim funkcionalnostima."
             }
           }
         },
         {
           "id": 2,
           "dateStart": {
-            "year": 2019,
+            "year": 2022,
             "month": 5
           },
           "img": null,
@@ -201,7 +201,7 @@
           "id": 3,
           "dateStart": {
             "year": 2023,
-            "month": 5
+            "month": 8
           },
           "img": null,
           "fallbackFaIcon": "fa-brands fa-js-square",
@@ -221,13 +221,13 @@
         {
           "id": 4,
           "dateStart": {
-            "year": 2025,
-            "month": 6
+            "year": 2024,
+            "month": 3
           },
           "img": null,
           "fallbackFaIcon": "fa-brands fa-vuejs",
           "fallbackFaIconColor": null,
-          "percentage": 15,
+          "percentage": 30,
           "locales": {
             "en": {
               "title": "Vue 3",
@@ -236,6 +236,24 @@
             "es": {
               "title": "Vue 3",
               "description": "Sposoban da razvija i implementira Vue aplikacije."
+            }
+          }
+        },
+        {
+          "id": 5,
+          "dateStart": 2025,
+          "img": null,
+          "fallbackFaIcon": "fa-brands fa-react",
+          "fallbackFaIconColor": null,
+          "percentage": 35,
+          "locales": {
+            "en": {
+              "title": "React Native",
+              "description": ""
+            },
+            "es": {
+              "title": "React Native",
+              "description": ""
             }
           }
         }
@@ -291,7 +309,7 @@
           "img": null,
           "fallbackFaIcon": "fa-brands fa-php",
           "fallbackFaIconColor": null,
-          "percentage": 70,
+          "percentage": 75,
           "locales": {
             "en": {
               "title": "PHP",
@@ -312,7 +330,7 @@
           "img": null,
           "fallbackFaIcon": "fa-brands fa-java",
           "fallbackFaIconColor": null,
-          "percentage": 80,
+          "percentage": 85,
           "locales": {
             "en": {
               "title": "Java",
@@ -333,15 +351,51 @@
           "img": null,
           "fallbackFaIcon": "fa-solid fa-star-of-life",
           "fallbackFaIconColor": null,
-          "percentage": 40,
+          "percentage": 35,
           "locales": {
             "en": {
-              "title": "Backend Frameworks",
-              "description": "Experienced in building and deploying backend applications using various frameworks."
+              "title": "Quarkus Framework",
+              "description": "Experienced in building and deploying backend applications using quarkus framework."
             },
             "es": {
               "title": "Backend Frameworks",
-              "description": "Iskusan u razvoju i implementaciji backend aplikacija koristeći razne framework-e."
+              "description": "Iskusan u razvoju i implementaciji backend aplikacija koristeći quarkus framework-e."
+            }
+          }
+        },
+        {
+          "id": 5,
+          "dateStart": 2025,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-leaf",
+          "fallbackFaIconColor": null,
+          "percentage": 40,
+          "locales": {
+            "en": {
+              "title": "Spring Boot",
+              "description": ""
+            },
+            "es": {
+              "title": "Spring Boot",
+              "description": ""
+            }
+          }
+        },
+        {
+          "id": 6,
+          "dateStart": 2026,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-bolt",
+          "fallbackFaIconColor": null,
+          "percentage": 15,
+          "locales": {
+            "en": {
+              "title": "FastAPI",
+              "description": ""
+            },
+            "es": {
+              "title": "FastAPI",
+              "description": ""
             }
           }
         }
@@ -404,6 +458,108 @@
               "title": "Engleski",
               "description": "Tečno govori i piše engleski jezik; siguran u profesionalnoj komunikaciji.",
               "level": "Tečno"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "component": "ArticleSkills",
+      "locales": {
+        "en": {
+          "title": "Tools & Methodologies"
+        },
+        "es": {
+          "title": "Alati i Metodologije"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "max_items_per_line": 2,
+        "transparent_item_icon_background": true,
+        "small_icons": false,
+        "chart": null
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": null,
+          "img": null,
+          "percentage": null,
+          "fallbackFaIcon": "fa-brands fa-git-alt",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Git & GitHub Actions",
+              "description": "",
+              "level": null
+            },
+            "es": {
+              "title": "Git i GitHub Actions",
+              "description": "",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": null,
+          "img": null,
+          "percentage": null,
+          "fallbackFaIcon": "fa-brands fa-gitlab",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "GitLab CI/CD",
+              "description": "",
+              "level": null
+            },
+            "es": {
+              "title": "GitLab CI/CD",
+              "description": "",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": null,
+          "img": null,
+          "percentage": null,
+          "fallbackFaIcon": "fa-brands fa-docker",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Docker",
+              "description": "",
+              "level": null
+            },
+            "es": {
+              "title": "Docker",
+              "description": "",
+              "level": null
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": null,
+          "img": null,
+          "percentage": null,
+          "fallbackFaIcon": "fa-solid fa-users",
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Agile & Scrum",
+              "description": "",
+              "level": null
+            },
+            "es": {
+              "title": "Agile i Scrum",
+              "description": "",
+              "level": null
             }
           }
         }

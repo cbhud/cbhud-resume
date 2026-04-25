@@ -1,163 +1,121 @@
 {
-    "articles": [
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
         {
-            "id": 1,
-            "component": "ArticleTimeline",
-            "locales": {},
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc"
+          "id": 1,
+          "dateStart": {
+            "year": 2023,
+            "month": 8
+          },
+          "dateEnd": {
+            "year": 2026,
+            "month": 8
+          },
+          "img": "images/places/logo-harvard.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Bachelor's in Software Engineering",
+              "description": "Studies focused on web technologies, databases, networks, and software development, with practical application of knowledge through academic and independent projects.",
+              "province": "Podgorica",
+              "country": "ME",
+              "institution": "Mediterranean University",
+              "tags": [
+                "Java",
+                "HTML",
+                "CSS",
+                "JS",
+                "AJAX",
+                "Data Structures & Algorithms",
+                "Relational Databases",
+                "PHP",
+                "AJAX",
+                "Java Quarkus BackEnd",
+                "Git",
+                "Computer Networks",
+                "Operating Systems",
+                "System Administration"
+              ]
             },
-            "items": [
-                {
-                    "id": 1,
-                    "dateStart": {
-                        "year": 2023,
-                        "month": 8
-                    },
-                    "dateEnd": {
-                        "year": 2026,
-                        "month": 8
-                    },
-                    "img": "images/places/logo-harvard.png",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "Bachelor's in Software Engineering",
-                            "description": "Pursuing a degree in SE with a solid foundation in software development and design while specializing in backend technologies.",
-                            "province": "Podgorica",
-                            "country": "ME",
-                            "institution": "Mediterranean University",
-                            "tags": [
-                                "Java",
-                                "HTML",
-                                "CSS",
-                                "JS",
-                                "AJAX",
-                                "Data Structures & Algorithms",
-                                "Relational Databases",
-                                "PHP",
-                                "AJAX",
-                                "Java Quarkus BackEnd",
-                                "Git",
-                                "Computer Networks",
-                                "Operating Systems",
-                                "System Administration"
-                            ]
-                        },
-                        "es": {
-                            "title": "Osnovne studije Softverskog Inženjerstva",
-                            "description": "Studiram softversko inženjerstvo, sa fokusom na backend tehnologije.",
-                            "province": "Podgorica",
-                            "country": "ME",
-                            "institution": "Univerzitet Mediteran",
-                            "tags": [
-                                "Java",
-                                "HTML",
-                                "CSS",
-                                "JS",
-                                "AJAX",
-                                "Strukture podataka i algoritmi",
-                                "Relacione baze podataka",
-                                "PHP",
-                                "AJAX",
-                                "Java Quarkus BackEnd",
-                                "Git",
-                                "Računarske mreže",
-                                "Operativni sistemi",
-                                "Administracija sistema"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "id": 2,
-                    "dateStart": {
-                        "year": 2024,
-                        "month": 2
-                    },
-                    "dateEnd": {
-                        "year": 2024,
-                        "month": 5
-                    },
-                    "img": "images/places/harvard2.jpg",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "Introduction to the Web Development",
-                            "description": "Completed a 3 month introductory course in web development, covering the fundamentals of web technologies. Gained hands-on experience building responsive web pages, styling with CSS, adding interactivity with JavaScript, and using Git for version control.",
-                            "province": "Podgorica",
-                            "country": "ME",
-                            "institution": "Developers Lab",
-                            "tags": [
-                                "HTML",
-                                "CSS",
-                                "JavaScript",
-                                "Git"
-                            ]
-                        },
-                        "es": {
-                            "title": "Uvod u Web Programiranje",
-                            "description": "Završio tromjesečni uvodni kurs web programiranja koji pokriva osnove web tehnologija. Stečeno praktično iskustvo u izradi responzivnih web stranica, dodavanju interaktivnosti sa JavaScript-om i korišćenju Git-a za kontrolu verzija.",
-                            "province": "Podgorica",
-                            "country": "ME",
-                            "institution": "Developers Lab",
-                            "tags": [
-                                "HTML",
-                                "CSS",
-                                "JavaScript",
-                                "Git"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "id": 3,
-                    "dateStart": {
-                        "year": 2025,
-                        "month": 9
-                    },
-                    "dateEnd": {
-                        "year": 2026,
-                        "month": 1
-                    },
-                    "img": "images/places/harvard3.webp",
-                    "fallbackFaIcon": null,
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "Distributed Software Development",
-                            "description": "Group project Remote Health Monitoring, realized within the Distributed Software Development course, in collaboration with an international team of students and Mälardalen University.",
-                            "province": "Remote",
-                            "country": "SE",
-                            "institution": "Mälardalen University",
-                            "tags": [
-                                "Python",
-                                "Signal Processing",
-                                "Radar Systems",
-                                "Git",
-                                "Agile Development"
-                            ]
-                        },
-                        "es": {
-                            "title": "Distribuirani razvoj softvera",
-                            "description": "Učestvovao na grupnom projektu Remote Health Monitoring, koji je realizovan u okviru predmeta distribuirani razvoj softvera, u saradnji sa međunarodnim timom studenata i Univerzitetom Mälardalen.",
-                            "province": "Remote",
-                            "country": "SE",
-                            "institution": "Mälardalen University",
-                            "tags": [
-                                "Python",
-                                "Obrada signala",
-                                "Radarski sistemi",
-                                "Git",
-                                "Agilni razvoj"
-                            ]
-                        }
-                    }
-                }
-            ]
+            "es": {
+              "title": "Osnovne studije Softverskog Inženjerstva",
+              "description": "Studije usmjerene na web tehnologije, baze podataka, mreže i razvoj softverskih rješenja, uz praktičnu primjenu znanja kroz akademske i samostalne projekte.",
+              "province": "Podgorica",
+              "country": "ME",
+              "institution": "Univerzitet Mediteran",
+              "tags": [
+                "Java",
+                "HTML",
+                "CSS",
+                "JS",
+                "AJAX",
+                "Strukture podataka i algoritmi",
+                "Relacione baze podataka",
+                "PHP",
+                "AJAX",
+                "Java Quarkus BackEnd",
+                "Git",
+                "Računarske mreže",
+                "Operativni sistemi",
+                "Administracija sistema"
+              ]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": {
+            "year": 2025,
+            "month": 9
+          },
+          "dateEnd": {
+            "year": 2026,
+            "month": 1
+          },
+          "img": "images/places/harvard3.webp",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Distributed Software Development",
+              "description": "Group project Remote Health Monitoring, realized within the Distributed Software Development course, in collaboration with an international team of students and Mälardalen University.",
+              "province": "Remote",
+              "country": "SE",
+              "institution": "Mälardalen University",
+              "tags": [
+                "Python",
+                "Signal Processing",
+                "Radar Systems",
+                "Git",
+                "Agile Development"
+              ]
+            },
+            "es": {
+              "title": "Distribuirani razvoj softvera",
+              "description": "Učestvovao na grupnom projektu Remote Health Monitoring, koji je realizovan u okviru predmeta distribuirani razvoj softvera, u saradnji sa međunarodnim timom studenata i Univerzitetom Mälardalen.",
+              "province": "Remote",
+              "country": "SE",
+              "institution": "Mälardalen University",
+              "tags": [
+                "Python",
+                "Obrada signala",
+                "Radarski sistemi",
+                "Git",
+                "Agilni razvoj"
+              ]
+            }
+          }
         }
-    ]
+      ]
+    }
+  ]
 }

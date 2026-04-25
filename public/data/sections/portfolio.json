@@ -23,7 +23,7 @@
       },
       "items": [
         {
-          "id": 1,
+          "id": 10,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-user-tag",
           "fallbackFaIconColor": null,
@@ -60,7 +60,7 @@
           ]
         },
         {
-          "id": 2,
+          "id": 5,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-users-gear",
           "fallbackFaIconColor": "#4a7ba1",
@@ -111,7 +111,7 @@
           ]
         },
         {
-          "id": 3,
+          "id": 7,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-train-subway",
           "fallbackFaIconColor": "#3e8e41",
@@ -152,7 +152,7 @@
           ]
         },
         {
-          "id": 4,
+          "id": 8,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-film",
           "fallbackFaIconColor": "#9c27b0",
@@ -193,7 +193,7 @@
           ]
         },
         {
-          "id": 5,
+          "id": 4,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-chess-rook",
           "fallbackFaIconColor": "#c0392b",
@@ -234,7 +234,7 @@
           ]
         },
         {
-          "id": 6,
+          "id": 3,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-leaf",
           "fallbackFaIconColor": "#2ecc71",
@@ -269,13 +269,18 @@
           "links": [
             {
               "faIcon": "fa-solid fa-globe",
-              "href": "http://organichealth.zya.me/index.php",
+              "href": "https://cbhud.infinityfree.me",
               "stringKey": "live_demo"
+            },
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/cbhud/organichealth-store",
+              "stringKey": "view_on_github"
             }
           ]
         },
         {
-          "id": 7,
+          "id": 6,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-clapperboard",
           "fallbackFaIconColor": "#34495e",
@@ -323,7 +328,7 @@
           ]
         },
         {
-          "id": 8,
+          "id": 3,
           "img": null,
           "fallbackFaIcon": "fa-solid fa-house-medical-circle-check",
           "fallbackFaIconColor": "#e74c3c",
@@ -356,8 +361,114 @@
           },
           "links": [
             {
+              "faIcon": "fa-solid fa-video",
+              "href": "https://streamable.com/lcwrkm",
+              "stringKey": "view_on_github"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-server",
+          "fallbackFaIconColor": "#2980b9",
+          "category": "productivity",
+          "locales": {
+            "en": {
+              "title": "TrackRig",
+              "description": "TrackRig is a web-based workstation and hardware tracking system designed for environments with many managed computers. It helps IT teams organize workstations, track physical components, manage assignments, and monitor maintenance tasks from one central place.<br><br>Developed using Vue for the frontend, Spring Boot for the backend API and security layer, and PostgreSQL for data storage. The application was successfully deployed on a VPS using Docker for containerization and Nginx for serving the frontend and reverse proxying the backend.",
+              "tags": [
+                "spring boot",
+                "java",
+                "agile",
+                "jira",
+                "backend",
+                "docker",
+                "vps",
+                "nginx",
+                "postgresql",
+                "spring boot",
+                "vue"
+              ]
+            },
+            "es": {
+              "title": "TrackRig",
+              "description": "TrackRig je web baziran sistem za praćenje radnih stanica i hardvera dizajniran za okruženja sa velikim brojem računara. Pomaže IT timovima da organizuju radne stanice, prate fizičke komponente, upravljaju dodjelama i prate zadatke održavanja sa jednog centralnog mjesta.<br><br>Razvijen koristeći Vue za frontend, Spring Boot za backend API i sigurnosni sloj, kao i PostgreSQL bazu podataka. Aplikacija je uspješno postavljena na VPS koristeći Docker za kontejnerizaciju i Nginx kao reverse proxy.",
+              "tags": [
+                "spring boot",
+                "java",
+                "agile",
+                "jira",
+                "backend",
+                "docker",
+                "vps",
+                "nginx",
+                "postgresql",
+                "spring boot",
+                "vue"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-globe",
+              "href": "https://trackrig.cbhud.software",
+              "stringKey": "live_demo"
+            },
+            {
               "faIcon": "fa-brands fa-github",
-              "href": "https://github.com/cbhud",
+              "href": "https://github.com/cbhud/trackrig",
+              "stringKey": "view_on_github"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "img": null,
+          "fallbackFaIcon": "fa-solid fa-receipt",
+          "fallbackFaIconColor": "#f39c12",
+          "category": "productivity",
+          "locales": {
+            "en": {
+              "title": "Receipt Expense Tracker",
+              "description": "Developed a mobile application for automatic expense tracking by scanning QR codes from receipts, without the need for manual data entry.<br><br>Implemented AI product categorization, spending statistics, charts, and AI-generated monthly analysis. The system allows AI analysis of financial habits, recognition of unusual expenses, and personalized recommendations to users.<br><br>Worked on the complete solution, from the mobile application and data processing to deploying the backend system on a server.",
+              "tags": [
+                "mobile",
+                "ai",
+                "react native",
+                "python",
+                "mistral",
+                "backend",
+                "spring boot",
+                "vps",
+                "docker"
+              ]
+            },
+            "es": {
+              "title": "Receipt Expense Tracker",
+              "description": "Razvio mobilnu aplikaciju za automatsko praćenje troškova skeniranjem QR koda sa fiskalnih računa, bez potrebe za ručnim unosom podataka.<br><br>Implementirao AI kategorizaciju proizvoda, statistiku potrošnje, grafikone i AI-generisane mjesečne analize. Sistem omogućava AI analizu finansijskih navika, prepoznavanje neuobičajenih troškova i personalizovane preporuke korisnicima.<br><br>Radio na kompletnom rješenju, od mobilne aplikacije i obrade podataka do postavljanja backend sistema na server.",
+              "tags": [
+                "mobile",
+                "ai",
+                "react native",
+                "python",
+                "mistral",
+                "backend",
+                "spring boot",
+                "vps",
+                "docker"
+              ]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-video",
+              "href": "https://www.youtube.com/shorts/XydU75vXJJo",
+              "stringKey": "live_demo"
+            },
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/RET-SYSTEM",
               "stringKey": "view_on_github"
             }
           ]

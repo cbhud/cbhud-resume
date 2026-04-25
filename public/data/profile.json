@@ -1,51 +1,44 @@
 {
-    "name": "Amer Hot",
-    "profilePictureUrl": "images/pictures/avatar.jpg",
-    "locales": {
+  "name": "Amer Hot",
+  "profilePictureUrl": "images/pictures/avatar.jpg",
+  "locales": {
+    "en": {
+      "credits": "👨‍💻",
+      "role": "Junior Software Developer"
+    },
+    "es": {
+      "credits": "👨‍💻",
+      "role": "Junior Software Developer"
+    }
+  },
+  "contactOptions": [
+    {
+      "id": "address",
+      "faIcon": "fa-regular fa-map",
+      "href": null,
+      "locales": {
         "en": {
-            "credits": "👨‍💻",
-            "role": "Software Engineer"
+          "value": "Rozaje, Montenegro",
+          "valueShort": "Montenegro – RO"
         },
         "es": {
-            "credits": "👨‍💻",
-            "role": "Software Engineer"
+          "valueShort": "Montenegro – RO"
         }
+      }
     },
-    "contactOptions": [
-        {
-            "id": "address",
-            "faIcon": "fa-regular fa-map",
-            "href": null,
-            "locales": {
-                "en": {
-                    "value": "Rozaje, Montenegro",
-                    "valueShort": "Montenegro – RO"
-                },
-                "es": {
-                    "valueShort": "Montenegro – RO"
-                }
-            }
-        },
-        {
-            "id": "email",
-            "value": "amerhott17@gmail.com",
-            "valueShort": "amerhott17@gmail.com",
-            "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:amerhott17@gmail.com"
-        },
-        {
-            "id": "github",
-            "value": "@cbhud",
-            "valueShort": "@cbhud",
-            "faIcon": "fa-brands fa-github",
-            "href": "https://github.com/cbhud"
-        },
-        {
-            "id": "linkedin",
-            "value": "@amerhot",
-            "valueShort": "@amerhot",
-            "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com/in/amerhot"
-        }
-    ]
+    {
+      "id": "github",
+      "value": "@cbhud",
+      "valueShort": "@cbhud",
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com/cbhud"
+    },
+    {
+      "id": "linkedin",
+      "value": "@amerhot",
+      "valueShort": "@amerhot",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://linkedin.com/in/amerhot"
+    }
+  ]
 }

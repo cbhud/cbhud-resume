@@ -4,8 +4,12 @@
       "id": 1,
       "component": "ArticleSkills",
       "locales": {
-        "en": { "title": null },
-        "es": { "title": null }
+        "en": {
+          "title": null
+        },
+        "es": {
+          "title": null
+        }
       },
       "settings": {
         "order_items_by": "id",
@@ -122,18 +126,18 @@
           "id": 1,
           "dateStart": null,
           "img": null,
-          "fallbackFaIcon": "fa-solid fa-brain",
+          "fallbackFaIcon": "fa-solid fa-network-wired",
           "fallbackFaIconColor": null,
           "percentage": null,
           "locales": {
             "en": {
-              "title": "AI & Machine Learning",
-              "description": "Exploring artificial intelligence, machine learning, and data science to build a strong foundation in future-focused technologies.",
+              "title": "IoT & Smart Home Systems",
+              "description": "Building a high interest in smart home systems with embedded devices such as Arduino and ESP32, using sensors, actuators, and the MQTT protocol.",
               "level": null
             },
             "es": {
-              "title": "AI i mašinsko učenje",
-              "description": "Istražujem vještačku inteligenciju, mašinsko učenje i nauku o podacima kako bih izgradio čvrstu osnovu u tehnologijama budućnosti.",
+              "title": "IoT i Smart home sistemi",
+              "description": "Razvijam veliko interesovanje za smart home sisteme sa mikrokontrolerima poput Arduino i ESP32, koristeći senzore, aktuatore i MQTT protokol.",
               "level": null
             }
           }

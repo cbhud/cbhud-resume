@@ -1,36 +1,37 @@
 {
-    "articles": [
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleProfile",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc",
+        "contact_list_ids": [
+          "email",
+          "phone"
+        ],
+        "contact_circles_ids": [
+          "instagram",
+          "facebook",
+          "linkedin",
+          "github",
+          "discord"
+        ]
+      },
+      "items": [
         {
-            "id": 1,
-            "component": "ArticleProfile",
-            "locales": {},
-            "settings": {
-                "order_items_by": "id",
-                "order_items_sort": "asc",
-                "contact_list_ids": [
-                    "email"
-                ],
-                "contact_circles_ids": [
-                    "instagram",
-                    "facebook",
-                    "linkedin",
-                    "github",
-                    "discord"
-                ]
+          "id": 1,
+          "locales": {
+            "en": {
+              "description": "Software engineering student with practical experience in web and mobile application development through freelance work, student projects, and mentorship-driven programs. Focused on developing functional software solutions, teamwork, and continuous skill improvement."
             },
-            "items": [
-                {
-                    "id": 1,
-                    "locales": {
-                        "en": {
-                            "description": "Software engineering student with a passion for learning and building impactful software."
-                        },
-                        "es": {
-                            "description": "Student softverskog inženjerstva, posvijećen učenju i kreiranju softvera koji pravi razliku."
-                        }
-                    }
-                }
-            ]
+            "es": {
+              "description": "Student softverskog inženjerstva sa praktičnim iskustvom u razvoju web i mobilnih aplikacija kroz freelance rad, studentske projekte i mentorski vođene programe. Usmjeren na razvoj funkcionalnih softverskih rješenja, timski rad i stalno unapređenje znanja."
+            }
+          }
         }
-    ]
+      ]
+    }
+  ]
 }

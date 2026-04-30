@@ -43,27 +43,6 @@
             }
         },
         {
-            "id": "skills",
-            "categoryId": "showcase",
-            "jsonPath": "/sections/skills.json",
-            "faIcon": "fa-solid fa-tools",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Skill* Set",
-                    "title_short": null,
-                    "description": "Exploring the diverse range of skills I've acquired over the time:",
-                    "nav_label": "Skills"
-                },
-                "es": {
-                    "title": "*Vještine*",
-                    "title_short": null,
-                    "description": "Istraživanje različitih vještina koje sam stekao:",
-                    "nav_label": "Vještine"
-                }
-            }
-        },
-        {
             "id": "experience",
             "categoryId": "background",
             "jsonPath": "/sections/experience.json",
@@ -102,6 +81,27 @@
                     "title_short": null,
                     "description": "Pregled mojih projekata. Nije sve ovdje, pa slobodno pogledajte moj GitHub!",
                     "nav_label": "Portfolio"
+                }
+            }
+        },
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired over the time:",
+                    "nav_label": "Skills"
+                },
+                "es": {
+                    "title": "*Vještine*",
+                    "title_short": null,
+                    "description": "Istraživanje različitih vještina koje sam stekao:",
+                    "nav_label": "Vještine"
                 }
             }
         },
